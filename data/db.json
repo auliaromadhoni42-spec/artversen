@@ -1,0 +1,1987 @@
+{
+  "users": [
+    {
+      "id": "usr-1790142307092-nv18q",
+      "nama": "Ahmad Fauzan",
+      "username": "ahmad_fauzan",
+      "email": "ahmad_fauzan@sekolah.belajar.id",
+      "password": "password123",
+      "kelas": "XI MIPA 1",
+      "created_at": "2026-09-23T05:45:07.092Z"
+    },
+    {
+      "id": "usr-1790142836261-i3734",
+      "nama": "Siswa Uji",
+      "username": "testsiswa1790142836229",
+      "email": "siswa@example.com",
+      "password": "password123",
+      "kelas": "XI MIPA 1",
+      "created_at": "2026-09-23T05:53:56.261Z"
+    },
+    {
+      "id": "usr-1790142840727-5sinx",
+      "nama": "Siswa Check",
+      "username": "checkuser1790142840707",
+      "email": "check@example.com",
+      "password": "password123",
+      "kelas": "XI MIPA 2",
+      "created_at": "2026-09-23T05:54:00.727Z"
+    },
+    {
+      "id": "usr-1790143296368-jm7xh",
+      "nama": "Siswa Materi Test",
+      "username": "materitest1790143296330",
+      "email": "materi@example.com",
+      "password": "password123",
+      "kelas": "XI MIPA 3",
+      "created_at": "2026-09-23T06:01:36.368Z"
+    },
+    {
+      "id": "usr-1790143315581-drjt0",
+      "nama": "Siswa Validasi Materi",
+      "username": "validmateri1790143315545",
+      "email": "valid@example.com",
+      "password": "password123",
+      "kelas": "XI MIPA 1",
+      "created_at": "2026-09-23T06:01:55.581Z"
+    },
+    {
+      "id": "usr-1790143352955-pd6y7",
+      "nama": "Siswa Panduan Lengkap",
+      "username": "panduan1790143352921",
+      "email": "panduan@example.com",
+      "password": "password123",
+      "kelas": "XI MIPA 4",
+      "created_at": "2026-09-23T06:02:32.955Z"
+    },
+    {
+      "id": "usr-1790162631079-pot4l",
+      "nama": "Aulia Test",
+      "username": "auliatest",
+      "email": "aulia@test.com",
+      "password": "password123",
+      "kelas": "XI-1",
+      "created_at": "2026-09-23T11:23:51.079Z"
+    },
+    {
+      "id": "sample-1",
+      "nama": "Dewi Anjani",
+      "username": "dewianjani",
+      "email": "dewi@smaneb.sch.id",
+      "password": "password123",
+      "kelas": "XI MIPA 2",
+      "created_at": "2026-09-18T10:00:00Z"
+    },
+    {
+      "id": "sample-2",
+      "nama": "Bima Pratama",
+      "username": "bimapratama",
+      "email": "bima@smaneb.sch.id",
+      "password": "password123",
+      "kelas": "XI IPS 1",
+      "created_at": "2026-09-19T08:30:00Z"
+    },
+    {
+      "id": "sample-3",
+      "nama": "Siti Rahmawati",
+      "username": "sitirahma",
+      "email": "siti@smaneb.sch.id",
+      "password": "password123",
+      "kelas": "XI MIPA 1",
+      "created_at": "2026-09-19T11:15:00Z"
+    },
+    {
+      "id": "sample-4",
+      "nama": "Farhan Maulana",
+      "username": "farhanm",
+      "email": "farhan@smaneb.sch.id",
+      "password": "password123",
+      "kelas": "XI IPS 2",
+      "created_at": "2026-09-20T09:00:00Z"
+    }
+  ],
+  "lkpd_levels": [
+    {
+      "id": "level-1",
+      "level": 1,
+      "judul": "Menciptakan Karya Seni yang Berdampak bagi Lingkungan Sekitar",
+      "deskripsi": "Mengeksplorasi potensi limbah, material daur ulang (upcycling), dan isu ekologis di lingkungan sekitar untuk dirancang menjadi karya seni berdampak sosial, estetis, dan ramah lingkungan.",
+      "urutan": 1,
+      "tema": "Unit 1: Menciptakan Karya Seni yang Berdampak bagi Lingkungan Sekitar",
+      "tujuan_pembelajaran": [
+        "Mengidentifikasi Isu Lingkungan: Mengamati dan mendokumentasikan permasalahan limbah atau lingkungan fisik sekitar sekolah/masyarakat.",
+        "Pengembangan Ide & Gagasan: Menemukan gagasan kreatif berorientasi ekologi yang merefleksikan kepedulian terhadap isu alam.",
+        "Perancangan Konsep & Media: Merancang konsep karya (tema, tujuan, pesan) melalui metode Corong Konsep dan memilih material daur ulang yang aman.",
+        "Manajemen Proyek & Produksi: Menyusun alokasi waktu kerja terstruktur (timeline 5 tahap) dan mengeksekusi karya dengan teknik seni rupa yang tepat.",
+        "Evaluasi Dampak Positif: Menganalisis efektivitas pesan dan mempresentasikan dampak nyata karya seni terhadap masyarakat dan lingkungan berdasarkan 7 Spektrum Dampak Positif."
+      ],
+      "materi_teks": "",
+      "video_url": "https://www.youtube-nocookie.com/embed/zL8pT9qN5gU",
+      "video_title": "Seni Berkelanjutan: Mengubah Limbah Lingkungan Menjadi Karya Berdaya Guna",
+      "quiz_data": [
+        {
+          "id": 1,
+          "question": "Konsep mengubah limbah anorganik sekitar menjadi karya seni bernilai estetis dan fungsi yang lebih tinggi disebut...",
+          "options": [
+            "Downcycling",
+            "Upcycling Art",
+            "Landfill",
+            "Degradasi material"
+          ],
+          "answerIndex": 1,
+          "explanation": "Upcycling art meningkatkan nilai guna dan keindahan barang buangan tanpa merusak mutu bahan."
+        },
+        {
+          "id": 2,
+          "question": "Tujuan utama penciptaan karya seni yang berdampak bagi lingkungan sekitar adalah...",
+          "options": [
+            "Membuat tumpukan sampah semakin banyak di selokan",
+            "Membangkitkan kesadaran kritis masyarakat terhadap isu kelestarian lingkungan melalui media visual",
+            "Meniru karya orang lain tanpa izin",
+            "Membeli bahan-bahan mahal dari luar negeri"
+          ],
+          "answerIndex": 1,
+          "explanation": "Seni rupa kontekstual ekologis bertujuan mengedukasi dan menggugah kepedulian sosial terhadap alam."
+        },
+        {
+          "id": 3,
+          "question": "Bahan limbah sekitar yang sangat cocok dimanfaatkan untuk teknik kolase tekstur timbul adalah...",
+          "options": [
+            "Kertas koran bekas, serbuk kayu, dan cangkang kerang",
+            "Limbah beracun B3",
+            "Pecahan kaca tajam tanpa pengaman",
+            "Gas aerosol"
+          ],
+          "answerIndex": 0,
+          "explanation": "Kertas koran, serbuk gergaji kayu, dan cangkang kerang merupakan material aman yang kaya akan ragam tekstur rupa."
+        },
+        {
+          "id": 4,
+          "question": "Karya seni instalasi ramah lingkungan yang ditempatkan di halaman sekolah sebaiknya mempertimbangkan aspek...",
+          "options": [
+            "Ketahanan terhadap cuaca dan keamanan bagi siswa yang melintas",
+            "Harus dibuat dari bahan yang mudah terbakar",
+            "Tidak boleh dilihat oleh orang lain",
+            "Hanya boleh berwarna hitam pekat"
+          ],
+          "answerIndex": 0,
+          "explanation": "Aspek keselamatan pengguna (safety) dan durabilitas cuaca merupakan syarat mutlak seni lingkungan luar ruang."
+        },
+        {
+          "id": 5,
+          "question": "Sikap yang harus dikembangkan siswa saat merancang karya seni lingkungan adalah...",
+          "options": [
+            "Apatis dan mengabaikan sampah sekitar",
+            "Peka observatif terhadap lingkungan serta berdaya cipta inovatif",
+            "Bergantung sepenuhnya pada cat impor",
+            "Membuang sisa cat ke saluran air bersih"
+          ],
+          "answerIndex": 1,
+          "explanation": "Kepekaan observasi terhadap masalah lingkungan sekitar adalah fondasi lahirnya ide seni yang orisinal dan berdampak."
+        }
+      ],
+      "matching_quiz": {
+        "title": "Kuis Menjodohkan: Konsep Seni Berdampak bagi Lingkungan",
+        "instruction": "Hubungkan istilah atau konsep seni di kolom kiri dengan definisi/perannya yang tepat di kolom kanan!",
+        "pairs": [
+          {
+            "id": "u1-m1",
+            "left": "Upcycling Art",
+            "right": "Mengubah limbah menjadi karya seni bernilai estetis & ekonomis tinggi tanpa merusak bahan dasarnya",
+            "explanation": "Upcycling art meningkatkan nilai guna dan keindahan limbah menjadi produk bernilai lebih tinggi."
+          },
+          {
+            "id": "u1-m2",
+            "left": "Site-Specific Eco-Installation",
+            "right": "Karya seni 3D yang dibuat dan ditempatkan menyatu langsung dengan kondisi ekosistem lokal",
+            "explanation": "Karya seni instalasi berbasis lokasi dirancang khusus selaras dengan ekosistem tempat ia dipajang."
+          },
+          {
+            "id": "u1-m3",
+            "left": "The Concept Funnel",
+            "right": "Alur perumusan karya: dari Tema payung, Tujuan dampak, Pesan persuasif, hingga Bentuk visual",
+            "explanation": "Corong konsep membantu seniman mengerucutkan isu lingkungan menjadi wujud seni konkret."
+          },
+          {
+            "id": "u1-m4",
+            "left": "Beautifikasi Publik",
+            "right": "Mentransformasikan sudut dinding kusam/kumuh menjadi galeri visual asri sarat edukasi",
+            "explanation": "Beautifikasi mempercantik ruang publik yang terbengkalai sekaligus menyisipkan pesan edukatif."
+          },
+          {
+            "id": "u1-m5",
+            "left": "Spektrum 7 Dampak Positif",
+            "right": "Kerangka evaluasi keberhasilan karya seni dalam mereduksi limbah dan menginspirasi publik",
+            "explanation": "Spektrum dampak mengukur keberhasilan karya seni dalam memicu perubahan nyata di masyarakat."
+          }
+        ]
+      },
+      "fill_blank_quiz": {
+        "title": "Kuis Isian Rumpang (Fill in the Blank): Seni Lingkungan",
+        "instruction": "Ketik kata kunci yang tepat untuk melengkapi kalimat rumpang berikut dengan benar!",
+        "questions": [
+          {
+            "id": 1,
+            "sentence_before": "Proses mendaur ulang limbah anorganik sekitar menjadi produk seni rupa bernilai estetis dan fungsi yang lebih tinggi disebut seni ",
+            "target_word": "upcycling",
+            "sentence_after": ".",
+            "hint": "Dimulai dengan huruf \"U\" (istilah daur ulang bernilai tambah)",
+            "acceptable_answers": [
+              "upcycling",
+              "upcycling art",
+              "upcycle"
+            ],
+            "explanation": "Upcycling art adalah proses kreatif meningkatkan nilai keindahan dan fungsi material buangan."
+          },
+          {
+            "id": 2,
+            "sentence_before": "Tahap awal investigasi lapangan untuk mencatat dan mendokumentasikan fenomena tumpukan limbah di sekitar sekolah disebut tahap ",
+            "target_word": "observasi",
+            "sentence_after": ".",
+            "hint": "Dimulai dengan huruf \"O\" (kegiatan mengamati fenomena)",
+            "acceptable_answers": [
+              "observasi",
+              "pengamatan",
+              "investigasi"
+            ],
+            "explanation": "Observasi merupakan langkah awal menangkap isu konkret sebelum merancang ide berkarya."
+          },
+          {
+            "id": 3,
+            "sentence_before": "Tingkat gagasan paling atas dalam Corong Konsep Karya yang memayungi tujuan dan pesan moral seni disebut ",
+            "target_word": "tema",
+            "sentence_after": ".",
+            "hint": "Kata 4 huruf berawalan \"T\" (pokok pikiran utama)",
+            "acceptable_answers": [
+              "tema",
+              "konsep tema"
+            ],
+            "explanation": "Tema adalah payung besar persoalan ekologis yang dipilih sebagai fokus penciptaan karya."
+          },
+          {
+            "id": 4,
+            "sentence_before": "Lapisan pelindung bening yang dioleskan pada tahap akhir (finishing) patung daur ulang agar tahan cuaca dan debu disebut lapisan ",
+            "target_word": "pernis",
+            "sentence_after": ".",
+            "hint": "Dimulai dengan huruf \"P\" (cairan pelapis kilau/doff)",
+            "acceptable_answers": [
+              "pernis",
+              "varnish",
+              "coating"
+            ],
+            "explanation": "Pernis (varnish) melindungi pigmen karya dari kelembapan, debu, dan paparan cuaca luar ruangan."
+          }
+        ]
+      },
+      "game_data": {
+        "type": "upcycle_match",
+        "title": "Tantangan Inovator Desain Seni Lingkungan",
+        "instruction": "Pasangkan jenis limbah lingkungan sekitar dengan bentuk karya seni inovatif yang paling tepat!",
+        "items": [
+          {
+            "waste": "Tutup botol plastik warna-warni",
+            "product": "Mozaik mural dinding edukasi hemat air"
+          },
+          {
+            "waste": "Kertas koran & kardus bekas",
+            "product": "Relief paper-mache dekoratif bernilai seni tinggi"
+          },
+          {
+            "waste": "Kain perca sisa konveksi seragam",
+            "product": "Tote bag seni rupa anyam perca ramah lingkungan"
+          },
+          {
+            "waste": "Pecahan genteng & keramik sisa",
+            "product": "Instalasi pot taman mozaik tahan cuaca"
+          }
+        ]
+      }
+    },
+    {
+      "id": "level-2",
+      "level": 2,
+      "judul": "Kritik Seni Rupa",
+      "deskripsi": "Mempelajari konsep, fungsi strategis, 4 jenis kritik seni (Jurnalistik, Populer, Pedagogik, Ilmiah), pendekatan kritik, serta 4 tahapan prosedur penulisan kritik (Deskripsi, Analisis Formal, Interpretasi, dan Evaluasi) bersumber dari Bahan Ajar Kritik Seni Rupa dan Presentasi Kritik Seni Rupa.",
+      "urutan": 2,
+      "tema": "Unit 2: Kritik Seni Rupa",
+      "tujuan_pembelajaran": [
+        "Mengidentifikasi dan membedakan 4 jenis kritik seni rupa: Jurnalistik, Populer, Pedagogik, dan Ilmiah.",
+        "Menganalisis karya seni rupa melalui pendekatan formalistik, ekspresionistik, instrumentalistik, dan kontekstual.",
+        "Memahami fungsi strategis kritik seni sebagai \"dua mata panah\" jembatan estetik antara seniman dan penikmat seni.",
+        "Menyusun ulasan kritik seni rupa secara terstruktur melalui 4 tahapan: Deskripsi, Analisis Formal, Interpretasi, dan Evaluasi."
+      ],
+      "materi_teks": "\n### Unit 2: Kritik Seni Rupa\nMateri Pembelajaran Digital Resmi (Literasi SMANEB):\n1. **Bahan Ajar Kritik Seni Rupa**: https://literasi-smaneb.my.canva.site/kritik-senirupa\n2. **Kritik Seni Rupa**: https://literasi-smaneb.my.canva.site/kritik-seni-rupa\n\n---\n\n### BAGIAN I: BAHAN AJAR KRITIK SENI RUPA\n> Sumber: Bahan Ajar Kritik Seni Rupa (https://literasi-smaneb.my.canva.site/kritik-senirupa)\n\n#### 1. Pendekatan dalam Kritik Seni\nDalam menelaah dan mengkritisi karya seni rupa, terdapat beberapa pendekatan utama yang digunakan oleh kritikus seni:\n- **Pendekatan Formalistik**: Menekankan pada kualitas formal visual, keselarasan unsur rupa (garis, bidang, bentuk, warna, tekstur, ruang), dan prinsip-prinsip penataan komposisi (keseimbangan, irama, kesatuan, penekanan/focal point).\n- **Pendekatan Ekspresionistik**: Menilai karya seni berdasarkan intensitas ekspresi perasaan, kedalaman emosional batin, serta orisinalitas luapan jiwa penciptanya.\n- **Pendekatan Instrumentalistik**: Memandang karya seni sebagai instrumen atau sarana untuk mencapai tujuan moral, pendidikan, sosial, religius, atau politik tertentu.\n- **Pendekatan Kontekstual**: Tidak terlalu mempersoalkan kualitas formal semata, melainkan melihat aspek konteksnya (keterkaitan antara objek, isi, tema, tujuan, dan pesan moral yang ingin disampaikan pelukisnya terhadap konteks ketika karya tersebut dihadirkan). Contoh nyata: lukisan *\"Penangkapan Pangeran Diponegoro\"* karya Raden Saleh dikritisi tidak saja dari segi teknis melukisnya, melainkan juga muatan politis perlawanan anti-kolonial dan martabat bangsa.\n\n#### 2. Empat Tahap Menulis Kritik Seni\nBerdasarkan pendekatan dalam kritik seni, tahapan kritik dirumuskan secara sistematis sebagai berikut:\n1. **Deskripsi**: Tahapan menemukan, mencatat, dan mendeskripsikan segala sesuatu yang dilihat apa adanya tanpa berusaha melakukan analisis atau mengambil kesimpulan awal. Pengkritik harus menguasai istilah teknis seni rupa agar mampu mendeskripsikan fenomena visual yang kasat mata secara akurat.\n2. **Analisis Formal**: Tahapan menelusuri karya seni berdasarkan struktur formal dan unsur-unsur pembentuknya (garis, bidang, warna, ruang, tekstur) serta prinsip penataannya. Melibatkan pemahaman struktur, pola, dan relasi antar elemen melalui pendekatan analitis.\n3. **Interpretasi**: Tahapan penafsiran makna sebuah karya seni, meliputi tema yang digarap, simbol yang dihadirkan, serta masalah filosofis yang dikedepankan seniman. Penafsiran ini bersifat terbuka dan dipengaruhi keluasan wawasan pengkritik.\n4. **Evaluasi atau Penilaian**: Tahapan yang menjadi ciri khas pembeda utama kritik seni, yaitu menentukan kualitas suatu karya seni bila dibandingkan dengan karya lain yang sejenis. Langkah evaluasi kritis meliputi:\n   - Mengaitkan sebanyak-banyaknya karya yang dinilai dengan karya lain yang sejenis.\n   - Menetapkan tujuan atau fungsi karya yang ditelaah.\n   - Menetapkan sejauh mana karya tersebut \"menyimpang\" atau menghadirkan kebaruan dari karya sebelumnya.\n   - Menelaah karya dari sudut pandang dan kebutuhan khusus yang melatarbelakanginya.\n\n#### 3. Kapasitas Mental Manusia dalam Melakukan Kritik\nManusia memiliki dorongan alami untuk memberikan tanggapan atau evaluasi terhadap karya seni karena memiliki kapasitas mental:\n- **Kemampuan reasoning**: Kemampuan menganalisis, menimbang, dan memikirkan secara rasional.\n- Dorongan kritis yang didasari oleh keterpaduan unsur **cipta, rasa, dan karsa** dalam diri manusia.\n\n#### 4. Fungsi Strategis Kritik Seni\nKritik seni memiliki fungsi yang sangat strategis dalam dunia kesenirupaan dan pendidikan:\n- Menjembatani persepsi dan apresiasi artistik dan estetik antara pencipta (seniman), karya, dan penikmat seni (publik).\n- Menjadi **\"dua mata panah\"** yang saling dibutuhkan:\n  - **Bagi Seniman**: Membutuhkan mata panah tajam untuk mendeteksi kelemahan, mengupas kedalaman makna, dan membangun kekurangan sebagai umpan balik refleksi komunikatif-ekspresifnya.\n  - **Bagi Penikmat (Publik Seni)**: Membutuhkan tali penghubung pemahaman terhadap realita artistik dan estetik dalam karya seni agar proses apresiasi terjalin lekat.\n\n#### 5. Kualifikasi dan Sosok Kritikus Seni\nKritikus seni adalah orang yang melakukan kritik terhadap karya seni orang lain atau dirinya sendiri (*self-critic*). Persyaratan ideal seorang kritikus:\n- Memiliki ketajaman dan sensibilitas indera, pikiran, dan perasaan (*reasoning and creative*).\n- Memiliki pengalaman dan pergaulan yang memadai dalam mengamati, menyelidiki, dan membandingkan materi seni rupa.\n- Menguasai landasan keilmuan seni (sejarah seni rupa Barat dan Timur, teori seni, filsafat seni, antropologi, dan sosiologi seni).\n- Memahami medium, proses melukis/membentuk, dan biografi seniman pencipta.\n- Menguasai media kebahasaan yang efektif (sesuai tata bahasa baku) dan komunikatif (mudah dicerna audiens sesuai sasaran pembaca publik/jurnalistik maupun akademis).\n\n---\n\n### BAGIAN II: KRITIK SENI RUPA\n> Sumber: Modul Presentasi Kritik Seni Rupa (https://literasi-smaneb.my.canva.site/kritik-seni-rupa)\n\n#### 1. Pemantik dan Refleksi\n- Pernahkah kalian mendengar kata kritik?\n- Menurut pendapat kalian apakah kritik itu?\n- Bagaimanakah cara menyampaikan sebuah kritik yang baik, santun, dan membangun?\n\n#### 2. Tujuan Pembelajaran\n1. Siswa dapat mengidentifikasi jenis-jenis kritik seni rupa.\n2. Siswa dapat menganalisis jenis-jenis kritik seni rupa.\n3. Siswa dapat menyusun kritik seni rupa secara terstruktur dan santun.\n\n#### 3. Pengertian Kritik Seni Rupa\nKritik seni rupa merupakan proses evaluasi terhadap karya seni rupa, baik dari segi teknis maupun isi pesan yang ingin disampaikan oleh sang seniman. Kritik seni rupa dapat membantu dalam memahami makna dan nilai sebuah karya seni, serta memberikan pandangan yang berbeda untuk menghargai keunikan dan keindahan dalam seni.\n\nAspek yang perlu diperhatikan dalam kritik seni rupa:\n- Komposisi dan tata letak unsur rupa\n- Penggunaan warna dan pencahayaan\n- Teknik penggambaran dan pengolahan medium\n- Ekspresi visual dan pesan yang ingin disampaikan\n- Konteks sosial, budaya, dan sejarah yang melatarbelakangi karya seni\n\n#### 4. Empat Jenis Kritik Seni Rupa\n1. **Kritik Jurnalistik**:\n   Penilaian terhadap kualitas suatu karya untuk konsumsi pembaca umum di media massa (artikel, berita, majalah). Tujuannya menyajikan informasi ulasan secara cepat, akurat, seimbang, dan dapat dipercaya khalayak ramai.\n2. **Kritik Populer**:\n   Bentuk evaluasi atau penilaian yang sering dilakukan oleh masyarakat umum terhadap karya seni, film, buku, atau musik di ruang publik (media daring, majalah, televisi). Menggunakan gaya bahasa santai dan komunikatif.\n3. **Kritik Pedagogik**:\n   Evaluasi dalam dunia pendidikan seni untuk meningkatkan mutu pengajaran dan pembelajaran. Bertujuan membimbing siswa agar lebih memahami seni, mematangkan keterampilan teknis, dan memupuk rasa percaya diri.\n4. **Kritik Ilmiah (Akademik)**:\n   Evaluasi mendalam terhadap metodologi, analisis data, struktur rupa, atau kesimpulan dalam karya seni/penelitian ilmiah seni. Bertujuan memperbaiki kelemahan penelitian serta meningkatkan validitas dan reliabilitas keilmuan seni.\n\n#### 5. Prosedur Penulisan Kritik Seni\nAlur baku penyusunan kritik seni rupa:\n**Deskripsi ➔ Analisis Formal ➔ Interpretasi ➔ Evaluasi**\nDengan menerapkan alur 4 tahap ini, siswa dapat menghasilkan ulasan kritik yang komprehensif, santun, objektif, dan berbobot.\n    ",
+      "video_url": "https://www.youtube-nocookie.com/embed/kOqf0lYh_Qc",
+      "video_title": "Panduan Kritik Seni Rupa: 4 Jenis Kritik & Prosedur Analisis Feldman",
+      "quiz_data": [
+        {
+          "id": 1,
+          "question": "Menurut modul pembelajaran Canva, kritik seni rupa diartikan sebagai...",
+          "options": [
+            "Proses evaluasi terhadap karya seni rupa, baik dari segi teknis maupun isi pesan yang disampaikan seniman",
+            "Tindakan mencela dan mencari kelemahan karya orang lain agar tidak dipamerkan",
+            "Penetapan harga komersial suatu lukisan sebelum dilelang",
+            "Pemberian tanda tangan sertifikat keaslian karya seni"
+          ],
+          "answerIndex": 0,
+          "explanation": "Kritik seni rupa mengevaluasi segi teknis dan pesan karya untuk memahami makna serta menghargai keindahan seni."
+        },
+        {
+          "id": 2,
+          "question": "Jenis kritik seni rupa yang disajikan untuk konsumsi pembaca umum di media massa seperti surat kabar atau artikel berita adalah kritik...",
+          "options": [
+            "Kritik Pedagogik",
+            "Kritik Jurnalistik",
+            "Kritik Ilmiah",
+            "Kritik Kolektor"
+          ],
+          "answerIndex": 1,
+          "explanation": "Kritik jurnalistik menyajikan ulasan ringkas, cepat, akurat, dan seimbang bagi pembaca media massa."
+        },
+        {
+          "id": 3,
+          "question": "Pendekatan kritik seni yang menelaah karya dengan melihat keterkaitan objek, isi, tema, serta konteks sejarah masa lalu (seperti lukisan Raden Saleh \"Penangkapan Pangeran Diponegoro\") disebut pendekatan...",
+          "options": [
+            "Kontekstual",
+            "Formalistik Murni",
+            "Dekoratif",
+            "Materialistik"
+          ],
+          "answerIndex": 0,
+          "explanation": "Pendekatan kontekstual menelaah keterkaitan karya dengan kondisi sosial budaya dan pesan historis yang melatarbelakanginya."
+        },
+        {
+          "id": 4,
+          "question": "Fungsi kritik seni yang diibaratkan sebagai \"dua mata panah\" bermakna bahwa kritik seni...",
+          "options": [
+            "Dibutuhkan seniman untuk mendeteksi kekurangan karya, sekaligus dibutuhkan publik untuk membantu memahami realita estetik",
+            "Seniman dan penikmat seni harus saling bermusuhan dalam menilai karya",
+            "Setiap karya seni harus dinilai oleh tepat dua orang kritikus",
+            "Kritik hanya boleh disampaikan dengan dua buah kalimat saja"
+          ],
+          "answerIndex": 0,
+          "explanation": "Dua mata panah berarti kritik seni menjadi umpan balik refleksi bagi seniman sekaligus tali penghubung pemahaman bagi penikmat seni."
+        },
+        {
+          "id": 5,
+          "question": "Tahapan dalam kritik karya seni yang bertugas menentukan kualitas suatu karya seni bila dibandingkan dengan karya lain yang sejenis adalah tahap...",
+          "options": [
+            "Deskripsi",
+            "Analisis Formal",
+            "Interpretasi",
+            "Evaluasi / Penilaian"
+          ],
+          "answerIndex": 3,
+          "explanation": "Evaluasi atau penilaian merupakan ciri khas utama kritik seni untuk menentukan mutu kualitas karya melalui telaah komparatif."
+        }
+      ],
+      "matching_quiz": {
+        "title": "Kuis Menjodohkan: Konsep & Jenis Kritik Seni Rupa",
+        "instruction": "Hubungkan istilah/konsep kritik seni di kolom kiri dengan pasangan penjelasan yang tepat di kolom kanan!",
+        "pairs": [
+          {
+            "id": "u2-m1",
+            "left": "Kritik Jurnalistik",
+            "right": "Penilaian karya seni untuk konsumsi pembaca umum di media massa (artikel, berita, majalah)",
+            "explanation": "Kritik jurnalistik mengutamakan informasi yang cepat, akurat, dan komunikatif bagi masyarakat luas."
+          },
+          {
+            "id": "u2-m2",
+            "left": "Kritik Pedagogik",
+            "right": "Evaluasi dalam dunia pendidikan untuk meningkatkan mutu pembelajaran dan bakat estetis siswa",
+            "explanation": "Kritik pedagogik bertujuan mendidik dan mematangkan rasa percaya diri peserta didik."
+          },
+          {
+            "id": "u2-m3",
+            "left": "Analisis Formal",
+            "right": "Menelusuri struktur formal, organisasi unsur visual (garis, warna, ruang), dan prinsip komposisi",
+            "explanation": "Analisis formal membedah sintaks visual bagaimana karya seni dibangun secara teknis."
+          },
+          {
+            "id": "u2-m4",
+            "left": "Fungsi Dua Mata Panah",
+            "right": "Umpan balik bagi seniman merefleksi karya, sekaligus jembatan pemahaman estetik bagi publik",
+            "explanation": "Kritik seni menjembatani komunikasi ekspresif antara pencipta dan penikmat seni."
+          },
+          {
+            "id": "u2-m5",
+            "left": "Pendekatan Kontekstual",
+            "right": "Menelaah karya berdasarkan keterkaitan tema dengan konteks sosial budaya (seperti lukisan Raden Saleh)",
+            "explanation": "Konteks sejarah dan latar belakang sosial menjadi pisau bedah utama dalam pendekatan ini."
+          }
+        ]
+      },
+      "fill_blank_quiz": {
+        "title": "Kuis Isian Rumpang: Materi Kritik Seni Rupa",
+        "instruction": "Lengkapi bagian kalimat yang rumpang dengan istilah kritik seni yang tepat sesuai materi Canva!",
+        "questions": [
+          {
+            "id": 1,
+            "sentence_before": "Jenis kritik seni rupa yang diterapkan di lingkungan sekolah untuk mematangkan proses belajar siswa disebut kritik ",
+            "target_word": "pedagogik",
+            "sentence_after": ".",
+            "hint": "Kata 9 huruf berawalan \"P\" (bidang kependidikan)",
+            "acceptable_answers": [
+              "pedagogik",
+              "pedagogis",
+              "kritik pedagogik"
+            ],
+            "explanation": "Kritik pedagogik bersifat edukatif untuk mengembangkan bakat dan apresiasi siswa."
+          },
+          {
+            "id": 2,
+            "sentence_before": "Tahap kritik seni rupa yang bertujuan menafsirkan makna, tema, dan simbol di balik karya adalah tahap ",
+            "target_word": "interpretasi",
+            "sentence_after": ".",
+            "hint": "Dimulai dengan huruf \"I\" (penafsiran makna)",
+            "acceptable_answers": [
+              "interpretasi",
+              "interpretation"
+            ],
+            "explanation": "Interpretasi mengungkap pesan filosofis dan simbolisme yang dihadirkan seniman."
+          },
+          {
+            "id": 3,
+            "sentence_before": "Kapasitas mental manusia untuk menganalisis dan mempertimbangkan secara rasional dalam melakukan kritik disebut kemampuan ",
+            "target_word": "reasoning",
+            "sentence_after": ".",
+            "hint": "Kata bahasa Inggris berawalan \"R\" (penalaran/pertimbangan rasional)",
+            "acceptable_answers": [
+              "reasoning",
+              "penalaran"
+            ],
+            "explanation": "Kemampuan reasoning membuat manusia terdorong untuk menimbang dan mengevaluasi karya."
+          },
+          {
+            "id": 4,
+            "sentence_before": "Tahap pertama dalam kritik seni yang murni mencatat objek kasat mata apa adanya tanpa opini disebut tahap ",
+            "target_word": "deskripsi",
+            "sentence_after": ".",
+            "hint": "Dimulai dengan huruf \"D\" (mencatat fakta visual kasat mata)",
+            "acceptable_answers": [
+              "deskripsi",
+              "description"
+            ],
+            "explanation": "Deskripsi menginventarisasi data fisik karya tanpa penilaian subjektif."
+          }
+        ]
+      },
+      "game_data": {
+        "type": "sort_feldman",
+        "title": "Urutan Prosedur Baku Penulisan Kritik Seni Rupa",
+        "instruction": "Susun kartu tahapan kritik berikut sesuai alur metodologis yang sistematis!",
+        "items": [
+          {
+            "step": 1,
+            "name": "Deskripsi",
+            "clue": "Menemukan dan mencatat fakta visual serta data fisik karya apa adanya"
+          },
+          {
+            "step": 2,
+            "name": "Analisis Formal",
+            "clue": "Menelusuri struktur unsur rupa dan prinsip penataan komposisi"
+          },
+          {
+            "step": 3,
+            "name": "Interpretasi",
+            "clue": "Menafsirkan tema, simbol, dan makna filosofis di balik karya seni"
+          },
+          {
+            "step": 4,
+            "name": "Evaluasi / Penilaian",
+            "clue": "Menentukan mutu kualitas karya seni secara komparatif dan argumentatif"
+          }
+        ]
+      }
+    },
+    {
+      "id": "level-3",
+      "level": 3,
+      "judul": "Berkarya Seni Rupa 3 Dimensi",
+      "deskripsi": "Mempelajari konsep karya seni rupa tiga dimensi, urgensi & 5 langkah daur ulang limbah, identifikasi jenis bahan bekas, serta praktik penciptaan kriya fashion ramah lingkungan (pelepah pisang, daun pandan, dan tas kresek).",
+      "urutan": 3,
+      "tema": "Unit 3: Berkarya Seni Rupa 3 Dimensi",
+      "tujuan_pembelajaran": [
+        "Menumbuhkan sikap peduli lingkungan melalui apresiasi dan pemanfaatan limbah sekitar.",
+        "Mengidentifikasi jenis-jenis bahan daur ulang (kertas/karton, botol/plastik, kaca, dan logam).",
+        "Memahami konsep seni rupa tiga dimensi serta perpaduan nilai guna dan estetika kerajinan daur ulang.",
+        "Membuat karya kerajinan kriya fashion 3 dimensi sederhana berbahan limbah alam atau buatan."
+      ],
+      "materi_teks": "\n### Berkarya Seni Rupa Tiga Dimensi\n> Sumber Belajar Digital Canva Site: https://literasi-smaneb.my.canva.site/berkaryasenirupatigadimensi (Seni Budaya Kelas XI Fase F)\n\n#### 1. Kompetensi Pembelajaran\n- Menumbuhkan sikap peduli lingkungan\n- Mengidentifikasi jenis bahan daur ulang\n- Membuat karya kerajinan sederhana\n- Memahami kerajinan dari bahan daur ulang\n\n---\n\n#### 2. Pengertian Karya Seni Rupa Tiga Dimensi\nKarya seni rupa tiga dimensi adalah karya seni yang memiliki volume dan dapat diraba dari berbagai sisi. Cirinya adalah adanya unsur ruang yang nyata (memiliki dimensi panjang, lebar, dan tinggi serta dapat dinikmati dari sudut pandang 360 derajat).\n\n---\n\n#### 3. Konsep Daur Ulang & Mengapa Daur Ulang Penting?\nDaur ulang adalah proses mengubah barang bekas atau sampah menjadi barang baru yang berguna. Contohnya, kertas bekas dapat diolah kembali menjadi kertas baru, sedangkan botol plastik bisa didaur ulang menjadi berbagai macam barang lain yang juga akan bermanfaat.\n\nAlasan mengapa daur ulang sampah itu diperlukan:\n1. **Mengurangi adanya sampah** di lingkungan dan tempat pembuangan akhir.\n2. **Menghemat sumber daya alam** serta energi produksi material baru.\n3. **Berusaha melindungi lingkungan** dari polusi, kerusakan ekosistem, dan pemanasan global.\n\n---\n\n#### 4. Jenis-Jenis Bahan yang Bisa Didaur Ulang\nBerikut jenis-jenis bahan yang bisa didaur ulang antara lain:\n- **Koran, majalah, dan karton**: Bahan selulosa yang mudah dibubur, dipilin, dilipat, atau dianyam.\n- **Botol, kantong, dan plastik**: Fleksibel, tahan air, dan dapat disetrika lapis (*fused plastic*) atau dirajut.\n- **Botol minuman dan toples (kaca)**: Kuat, transparan, dan dapat dialihfungsikan menjadi wadah estetik.\n- **Kaleng dan peralatan besi**: Kokoh dan memberikan aksen struktural atau industrial yang menarik.\n\n---\n\n#### 5. 5 Langkah Daur Ulang yang Sistematis\n1. **Pengumpulan sampah**: Menghimpun barang atau limbah yang masih layak untuk diolah.\n2. **Pemilahan sampah**: Memisahkan jenis sampah organik dan anorganik secara teliti.\n3. **Pembersihan sampah**: Mencuci, merendam, dan mengeringkan agar higienis dan bebas bau.\n4. **Pengolahan sampah**: Mengubah bentuk bahan (memotong, memilin, menyayat, atau memipihkan).\n5. **Pembuatan produk baru**: Mengeksekusi desain karya kriya fungsional hingga tahapan *finishing*.\n\n---\n\n#### 6. Manfaat & Cara Membantu Proses Daur Ulang\n- **Manfaat Daur Ulang**: Daur ulang membantu kita menjaga bumi tetap bersih dan sehat. Ketika kita mengumpulkan barang bekas seperti kertas, plastik, dan kaleng, barang-barang itu diubah menjadi barang baru, sehingga tidak banyak sampah yang berserakan di lingkungan serta agar lebih rapi dan bersih.\n- **Cara Membantu**: Memilah sampah di rumah dengan memisahkan sampah organik dan non-organik, mengurangi penggunaan barang sekali pakai dengan memakai botol minum atau tas kain, serta mengajak teman dan keluarga untuk ikut mendaur ulang adalah langkah sederhana yang juga akan bermanfaat.\n- **Fakta Menarik**:\n  - Satu ton kertas bekas dapat menyelamatkan sekitar 17 pohon yang bermanfaat.\n  - Mendaur ulang satu botol plastik dapat menghemat listrik untuk menyalakan lampu beberapa jam.\n  - Banyak negara di dunia telah berhasil mengurangi sampah dengan menerapkan sistem daur ulang modern.\n\n---\n\n#### 7. Pengertian & Tujuan Kerajinan Daur Ulang\n- **Pengertian Kerajinan Daur Ulang**: Karya seni atau barang kerajinan yang dibuat dari bahan bekas atau barang yang sudah tidak terpakai, kemudian diolah kembali menjadi benda baru yang memiliki nilai guna dan nilai estetika. Kerajinan ini bertujuan untuk mengurangi limbah, menjaga lingkungan, serta mengembangkan kreativitas dan keterampilan dalam memanfaatkan barang bekas menjadi sesuatu yang bermanfaat.\n- **Tujuan Kerajinan Daur Ulang**: Memanfaatkan barang bekas agar dapat digunakan kembali sehingga mengurangi jumlah sampah di lingkungan. Selain itu, bertujuan untuk melatih kreativitas dan keterampilan, menumbuhkan sikap peduli terhadap lingkungan, serta menambah nilai guna dan nilai jual dari bahan yang sebelumnya tidak terpakai.\n\n---\n\n#### 8. Tugas Akhir Projek: Kriya Fashion Daur Ulang\nPada tugas akhir unit ini, kalian akan membuat sebuah kerajinan Kriya daur ulang menggunakan bahan limbah alam atau buatan (pilih salah satu):\n1. **Pelepah Pisang**: Serat alam bertekstur eksotis, dikeringkan dan dianyam.\n2. **Daun Pandan**: Serat lentur beraroma khas, disayat halus dan dianyam rapi.\n3. **Tas Kresek**: Sampah plastik kantong belanja yang disetrika lapis (*fused plastic*) atau dipilin.\n\nDibuat menjadi karya kriya fashion fungsional seperti:\n- **Tas Selempang (Sling Bag)**\n- **Totebag atau Tas Jinjing**\n- **Dompet Lipat / Kartu**\n- **Pouch Serbaguna**\n\n---\n\n#### 9. Kesimpulan\nKerajinan daur ulang merupakan kegiatan mengolah barang bekas menjadi karya yang memiliki nilai guna dan nilai keindahan. Melalui kerajinan daur ulang, kita dapat mengurangi sampah, menjaga kelestarian lingkungan, serta melatih kreativitas dan keterampilan. Oleh karena itu, kerajinan daur ulang menjadi kegiatan yang bermanfaat, mudah dilakukan, dan penting untuk diterapkan dalam kehidupan sehari-hari, khususnya bagi siswa SMA.\n    ",
+      "video_url": "https://www.youtube-nocookie.com/embed/fT5_wRj4h2U",
+      "video_title": "Berkarya Seni Rupa 3 Dimensi: Eksplorasi Kriya Daur Ulang Ramah Lingkungan",
+      "quiz_data": [
+        {
+          "id": 1,
+          "question": "Ciri utama yang membedakan karya seni rupa tiga dimensi dari dua dimensi adalah...",
+          "options": [
+            "Memiliki volume dan dapat diraba dari berbagai sisi karena adanya ruang nyata",
+            "Hanya dapat dinikmati dari satu arah depan saja",
+            "Selalu menggunakan media cat minyak di atas kanvas",
+            "Tidak memiliki ukuran ketebalan fisik"
+          ],
+          "answerIndex": 0,
+          "explanation": "Karya 3 dimensi memiliki panjang, lebar, tinggi, bervolume, dan menempati ruang nyata sehingga dapat diapresiasi dari 360 derajat."
+        },
+        {
+          "id": 2,
+          "question": "Manakah di bawah ini yang BUKAN merupakan alasan mengapa daur ulang sampah sangat diperlukan?",
+          "options": [
+            "Mengurangi timbunan sampah di lingkungan",
+            "Menghemat sumber daya alam dan energi",
+            "Meningkatkan pencemaran air dan tanah",
+            "Melindungi kelestarian lingkungan bumi"
+          ],
+          "answerIndex": 2,
+          "explanation": "Daur ulang bertujuan mengurangi pencemaran lingkungan, bukan meningkatkannya."
+        },
+        {
+          "id": 3,
+          "question": "Berdasarkan materi literasi Canva, mendaur ulang 1 ton kertas bekas diperkirakan dapat menyelamatkan sekitar...",
+          "options": [
+            "5 pohon",
+            "17 pohon",
+            "50 pohon",
+            "100 pohon"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fakta menarik dari modul menunjukkan bahwa 1 ton kertas bekas yang didaur ulang menyelamatkan sekitar 17 pohon produktif."
+        },
+        {
+          "id": 4,
+          "question": "Karya seni atau kerajinan yang dibuat dari barang bekas dan diolah kembali menjadi benda yang memiliki perpaduan nilai guna dan estetika disebut...",
+          "options": [
+            "Seni Grafis",
+            "Kerajinan Daur Ulang",
+            "Seni Komersial",
+            "Lukisan Digital"
+          ],
+          "answerIndex": 1,
+          "explanation": "Kerajinan daur ulang menggabungkan nilai fungsi (dapat dipakai) dan nilai keindahan estetis dari barang bekas."
+        },
+        {
+          "id": 5,
+          "question": "Pada tugas proyek kriya fashion Unit 3, bahan limbah yang disediakan sebagai opsi pilihan praktik siswa adalah...",
+          "options": [
+            "Pelepah pisang, daun pandan, atau tas kresek",
+            "Kaca patri, paku karatan, atau tembaga murni",
+            "Batu marmer, semen cor, atau asbes",
+            "Kayu jati gelondongan, lilin malam, atau kulit buaya"
+          ],
+          "answerIndex": 0,
+          "explanation": "Tugas akhir Unit 3 memberikan 3 pilihan bahan limbah: pelepah pisang, daun pandan, atau tas kresek."
+        }
+      ],
+      "matching_quiz": {
+        "title": "Kuis Menjodohkan: Berkarya Seni Rupa 3 Dimensi & Daur Ulang",
+        "instruction": "Hubungkan istilah/konsep di kolom kiri dengan pasangan penjelasan yang tepat di kolom kanan!",
+        "pairs": [
+          {
+            "id": "u3-m1",
+            "left": "Karya Rupa 3D",
+            "right": "Karya seni yang memiliki volume, panjang, lebar, tinggi, dan ruang nyata yang dapat diraba",
+            "explanation": "Karya 3 dimensi dapat dinikmati dari berbagai arah sudut pandang."
+          },
+          {
+            "id": "u3-m2",
+            "left": "Pelepah Pisang",
+            "right": "Limbah serat alam bertekstur kecokelatan yang dikeringkan dan dianyam menjadi tas/dompet etnik",
+            "explanation": "Pelepah pisang memiliki serat kuat dan bernilai eksotis jika dipernis."
+          },
+          {
+            "id": "u3-m3",
+            "left": "Tas Kresek (Plastik)",
+            "right": "Limbah anorganik yang dapat disetrika lapis (fused plastic) menjadi bahan kriya fashion tahan air",
+            "explanation": "Teknik fused plastic memanfaatkan limbah kantong kresek menjadi bahan lentur kedap air."
+          },
+          {
+            "id": "u3-m4",
+            "left": "Daun Pandan",
+            "right": "Bahan serat alami lentur yang disayat halus dan dianyam menjadi pouch atau dompet",
+            "explanation": "Daun pandan sangat terkenal dalam kerajinan anyam kriya Nusantara."
+          },
+          {
+            "id": "u3-m5",
+            "left": "17 Pohon",
+            "right": "Jumlah estimasi pohon yang dapat diselamatkan dari kegiatan mendaur ulang 1 ton kertas bekas",
+            "explanation": "Menunjukkan dampak nyata efisiensi ekologis dari daur ulang kertas."
+          }
+        ]
+      },
+      "fill_blank_quiz": {
+        "title": "Kuis Isian Rumpang: Materi Berkarya Seni Rupa 3 Dimensi",
+        "instruction": "Ketik istilah atau kata yang tepat sesuai materi Canva pada bagian kalimat yang rumpang!",
+        "questions": [
+          {
+            "id": 1,
+            "sentence_before": "Karya seni rupa yang memiliki volume dan dapat diraba dari berbagai sisi karena adanya unsur ruang nyata disebut karya seni rupa ",
+            "target_word": "tiga dimensi",
+            "sentence_after": ".",
+            "hint": "Dua kata (tiga dimensi / 3 dimensi)",
+            "acceptable_answers": [
+              "tiga dimensi",
+              "3 dimensi",
+              "3d"
+            ],
+            "explanation": "Karya tiga dimensi menempati ruang nyata secara fisik."
+          },
+          {
+            "id": 2,
+            "sentence_before": "Proses mengubah barang bekas atau sampah menjadi barang baru yang bermanfaat disebut ",
+            "target_word": "daur ulang",
+            "sentence_after": ".",
+            "hint": "Dua kata berawalan \"D\" dan \"U\" (recycling)",
+            "acceptable_answers": [
+              "daur ulang",
+              "recycle",
+              "daur-ulang"
+            ],
+            "explanation": "Daur ulang memberi nilai guna baru pada barang yang sudah tidak terpakai."
+          },
+          {
+            "id": 3,
+            "sentence_before": "Mendaur ulang satu ton kertas bekas mampu menyelamatkan sekitar ",
+            "target_word": "17",
+            "sentence_after": " pohon.",
+            "hint": "Angka belasan (tujuh belas)",
+            "acceptable_answers": [
+              "17",
+              "tujuh belas"
+            ],
+            "explanation": "Satu ton kertas daur ulang menyelamatkan sekitar 17 pohon."
+          },
+          {
+            "id": 4,
+            "sentence_before": "Salah satu pilihan bahan limbah plastik tipis untuk kriya fashion tas selempang pada Unit 3 adalah tas ",
+            "target_word": "kresek",
+            "sentence_after": ".",
+            "hint": "Kata 6 huruf berawalan \"K\" (kantong plastik belanja)",
+            "acceptable_answers": [
+              "kresek",
+              "plastik kresek",
+              "tas kresek"
+            ],
+            "explanation": "Kantong kresek bekas dapat disetrika lapis menjadi lembaran kuat untuk dijahit."
+          }
+        ]
+      },
+      "game_data": {
+        "type": "material_mixer",
+        "title": "Studio Eksplorasi Bahan Daur Ulang 3 Dimensi",
+        "instruction": "Padukan jenis limbah bahan dengan teknik pengolahan untuk menghasilkan produk kriya 3D bernilai tinggi!",
+        "items": [
+          {
+            "name": "Pelepah Pisang Kering + Teknik Anyam Silang",
+            "type": "Kriya Serat Alam",
+            "result": "Tas Jinjing Etnik Ramah Lingkungan"
+          },
+          {
+            "name": "Kantong Kresek + Teknik Fused Plastic Setrika",
+            "type": "Kriya Plastik Daur Ulang",
+            "result": "Tas Selempang Waterproof Modis"
+          },
+          {
+            "name": "Daun Pandan Kering + Pewarna Alami",
+            "type": "Kriya Tradisional Modern",
+            "result": "Pouch Kosmetik Beraroma Alami"
+          },
+          {
+            "name": "Kardus Bekas + Pilinan Kertas Koran",
+            "type": "Struktur Rangka 3D",
+            "result": "Kotak Wadah Fungsional Kokoh"
+          }
+        ]
+      }
+    },
+    {
+      "id": "level-4",
+      "level": 4,
+      "judul": "Membuat Karya Seni Ekspresi Personal",
+      "deskripsi": "Menemukan identitas dan bahasa visual pribadi melalui karya seni rupa bercorak ekspresionis, surealis, atau simbolik yang berakar pada ingatan masa lalu, emosi batin, dan pengalaman personal.",
+      "urutan": 4,
+      "tema": "Unit 4: Membuat Karya Seni Ekspresi Personal",
+      "tujuan_pembelajaran": [
+        "Menggali pengalaman personal, mimpi, atau memori masa lalu sebagai sumber ilham berkarya seni.",
+        "Memilih gaya seni rupa ekspresi (Ekspresionisme, Surealisme, Simbolisme) yang selaras dengan karakter batin.",
+        "Menciptakan karya seni rupa dua dimensi yang memuat metafora visual dan muatan emosional orisinal."
+      ],
+      "materi_teks": "\n### 1. Seni Rupa Sebagai Media Katarsis & Ekspresi Diri\nSeni ekspresi personal adalah saluran jujur bagi gejolak perasaan, harapan, ketakutan, maupun memori berharga seniman.\n- **Ekspresionisme**: Menolak peniruan alam secara fotorealistis; lebih mengutamakan luapan emosi spontan lewat distorsi bentuk dan goresan warna penuh gairah (misal maestro Affandi atau Edvard Munch).\n- **Surealisme**: Menggali alam bawah sadar, teka-teki mimpi, dan asosiasi bebas yang melampaui logika dunia nyata (misal karya Salvador Dalí atau René Magritte).\n- **Simbolisme**: Menggunakan benda, hewan, atau figur imajiner sebagai lambang kondisi psikologis atau spiritual tertentu.\n\n---\n\n### 2. Mentransformasikan Pengalaman Batin Menjadi Simbol Visual\nLangkah menemukan ekspresi personal:\n1. **Refleksi Batin (Introspeksi)**: Merenungkan kembali peristiwa atau perasaan yang paling membekas dalam hidupmu.\n2. **Menemukan Metafora Visual**: Mengubah rasa sunyi, semangat membara, atau harapan masa depan menjadi bentuk visual (misalnya warna biru pekat untuk hening, atau jam meleleh untuk waktu yang terasa fana).\n3. **Keberanian Bereksperimen**: Tidak takut membuat bentuk-bentuk unik yang melanggar aturan anatomis asalkan sarat makna batin.\n    ",
+      "video_url": "https://www.youtube-nocookie.com/embed/PjE3W2t4m_k",
+      "video_title": "Eksplorasi Ekspresi Personal: Mengolah Emosi dan Memori Menjadi Seni Visual",
+      "quiz_data": [
+        {
+          "id": 1,
+          "question": "Aliran seni rupa modern yang menomorsatukan luapan gejolak emosi batin pelukis melalui distorsi bentuk dan warna adalah...",
+          "options": [
+            "Naturalisme",
+            "Ekspresionisme",
+            "Klasisisme",
+            "Realisme sosialis"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ekspresionisme berfokus pada pengalaman emosional subjektif di atas representasi fisik objek nyata."
+        },
+        {
+          "id": 2,
+          "question": "Penggunaan objek visual seperti jam dinding yang meliuk meleleh pada karya Salvador Dalí berfungsi sebagai simbol...",
+          "options": [
+            "Kerusakan jam mekanik di toko",
+            "Metafora relativitas waktu dan alam mimpi bawah sadar",
+            "Iklan produsen arloji",
+            "Alat ukur suhu ruangan"
+          ],
+          "answerIndex": 1,
+          "explanation": "Jam meleleh merupakan simbol surealis mengenai kefanaan waktu dalam dimensi mimpi bawah sadar."
+        },
+        {
+          "id": 3,
+          "question": "Proses pelepasan emosi, kecemasan, atau kegembiraan mendalam lewat aktivitas berkarya seni rupa dikenal dengan istilah...",
+          "options": [
+            "Plagiarisme",
+            "Katarsis emosional",
+            "Monokrom",
+            "Asembling"
+          ],
+          "answerIndex": 1,
+          "explanation": "Katarsis adalah proses penyucian dan penyaluran emosi batin melalui kreasi karya seni."
+        },
+        {
+          "id": 4,
+          "question": "Ciri khas karya seni lukis ekspresionis maestro Affandi yang sangat menonjol adalah...",
+          "options": [
+            "Sapuan kuas sangat halus tanpa tekstur cat sama sekali",
+            "Teknik plototan cat langsung dari tube menggunakan jari tangan dengan garis meliuk ekspresif",
+            "Menggambar garis arsir presisi dengan penggaris besi",
+            "Mewarnai pola geometris simetris kotak-kotak"
+          ],
+          "answerIndex": 1,
+          "explanation": "Affandi terkenal dengan gaya plototan cat langsung dan sapuan jari tangannya yang penuh energi batin."
+        },
+        {
+          "id": 5,
+          "question": "Nilai terpenting yang dinilai dari karya seni ekspresi personal siswa adalah...",
+          "options": [
+            "Seberapa persis siswa menjiplak lukisan di internet",
+            "Kejujuran rasa, orisinalitas ide, dan kekuatan bahasa visual simbolis yang dihadirkan",
+            "Tingkat kemahalan cat yang dibeli",
+            "Berapa banyak orang yang langsung tertawa"
+          ],
+          "answerIndex": 1,
+          "explanation": "Kejujuran batin dan orisinalitas ungkapan visual menjadi tolok ukur utama seni ekspresi personal."
+        }
+      ],
+      "matching_quiz": {
+        "title": "Kuis Menjodohkan: Aliran Seni Rupa Ekspresi & Metafora Visual",
+        "instruction": "Jodohkan istilah aliran atau konsep ekspresi personal di kolom kiri dengan definisinya di kolom kanan!",
+        "pairs": [
+          {
+            "id": "u4-m1",
+            "left": "Ekspresionisme",
+            "right": "Aliran seni yang mendistorsi bentuk fisik dan warna demi menonjolkan luapan gejolak emosi batin subjektif",
+            "explanation": "Ekspresionisme mengutamakan luapan batin seniman di atas kesetiaan pada rupa fotorealistis alam."
+          },
+          {
+            "id": "u4-m2",
+            "left": "Surealisme",
+            "right": "Gaya seni yang menggambarkan dunia mimpi bawah sadar dengan perpaduan objek nyata yang paradoks",
+            "explanation": "Surealisme mengeksplorasi citra fantasi tak lazim seperti jam meleleh karya Salvador Dalí."
+          },
+          {
+            "id": "u4-m3",
+            "left": "Katarsis Emosional",
+            "right": "Proses pelepasan atau penyucian kecemasan, duka, maupun kegembiraan jiwa melalui karya seni rupa",
+            "explanation": "Katarsis adalah media terapi psikologis untuk menumpahkan gejolak rasa ke atas kanvas."
+          },
+          {
+            "id": "u4-m4",
+            "left": "Plototan Cat Affandi",
+            "right": "Teknik menekan cat langsung dari tube ke atas kanvas dan menyapukannya secara ekspresif dengan jari",
+            "explanation": "Gaya plototan cat Affandi mentransfer energi emosi batin tanpa perantara bulu kuas halus."
+          },
+          {
+            "id": "u4-m5",
+            "left": "Metafora Visual",
+            "right": "Penggunaan simbol rupa untuk mewakili konsep abstrak (misal: jam meliuk sebagai lambang kefanaan waktu)",
+            "explanation": "Metafora visual menjembatani ide-ide filosofis tak berwujud menjadi objek rupa yang bermakna."
+          }
+        ]
+      },
+      "fill_blank_quiz": {
+        "title": "Kuis Isian Rumpang (Fill in the Blank): Ekspresi Diri",
+        "instruction": "Isi kata kunci yang tepat untuk melengkapi pernyataan tentang seni ekspresi personal berikut!",
+        "questions": [
+          {
+            "id": 1,
+            "sentence_before": "Aliran seni lukis yang lebih mengutamakan luapan gejolak emosi batin daripada meniru wujud alamiah dinamakan ",
+            "target_word": "ekspresionisme",
+            "sentence_after": ".",
+            "hint": "Dimulai dengan huruf \"E\" (aliran seni ekspresi batin)",
+            "acceptable_answers": [
+              "ekspresionisme",
+              "ekspresionis"
+            ],
+            "explanation": "Ekspresionisme mengedepankan distorsi bentuk dan warna untuk menyampaikan intensitas emosi."
+          },
+          {
+            "id": 2,
+            "sentence_before": "Maestro seni lukis ekspresionis terkemuka Indonesia yang terkenal dengan teknik plototan cat langsung dari tube adalah ",
+            "target_word": "affandi",
+            "sentence_after": ".",
+            "hint": "Nama tokoh seniman maestro berawalan huruf \"A\"",
+            "acceptable_answers": [
+              "affandi",
+              "kusuma affandi",
+              "maestro affandi"
+            ],
+            "explanation": "Affandi diakui dunia berkat gaya melukis ekspresifnya yang menggunakan telapak dan jari tangan."
+          },
+          {
+            "id": 3,
+            "sentence_before": "Proses pelepasan atau penyucian emosi dan ketegangan jiwa melalui kegiatan berkarya seni dinamakan ",
+            "target_word": "katarsis",
+            "sentence_after": ".",
+            "hint": "Dimulai dengan huruf \"K\" (istilah psikologis penyaluran beban emosi)",
+            "acceptable_answers": [
+              "katarsis",
+              "katarsis emosional",
+              "catharsis"
+            ],
+            "explanation": "Katarsis menjadikan media seni rupa sebagai sarana pemulihan dan penyeimbang batin seniman."
+          },
+          {
+            "id": 4,
+            "sentence_before": "Aliran seni lukis yang menggabungkan citra alam bawah sadar, teka-teki mimpi, dan logika paradoks disebut aliran ",
+            "target_word": "surealisme",
+            "sentence_after": ".",
+            "hint": "Dimulai dengan huruf \"S\" (aliran mimpi Salvador Dalí)",
+            "acceptable_answers": [
+              "surealisme",
+              "surealis"
+            ],
+            "explanation": "Surealisme membebaskan imajinasi melampaui batasan realitas fisik sehari-hari."
+          }
+        ]
+      },
+      "game_data": {
+        "type": "match_style",
+        "title": "Tebak & Pasangkan Gaya Aliran Seni Ekspresi",
+        "instruction": "Cocokkan nama gaya seni dengan karakteristik visual ekspresinya!",
+        "items": [
+          {
+            "id": "m1",
+            "style": "Surealisme",
+            "characteristic": "Citra alam bawah sadar & mimpi paradoks (contoh: Salvador Dalí)"
+          },
+          {
+            "id": "m2",
+            "style": "Kubisme",
+            "characteristic": "Bidang-bidang geometris faset dari berbagai sudut (contoh: Picasso)"
+          },
+          {
+            "id": "m3",
+            "style": "Ekspresionisme",
+            "characteristic": "Distorsi bentuk & goresan cat luapan emosi batin (contoh: Affandi)"
+          },
+          {
+            "id": "m4",
+            "style": "Impresionisme",
+            "characteristic": "Tangkapan efek cahaya matahari seketika dengan sapuan kuas pendek (contoh: Monet)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "level-5",
+      "level": 5,
+      "judul": "Ilustrasi Deskriptif",
+      "deskripsi": "Mempelajari seni ilustrasi deskriptif yang berfungsi memperjelas dan menghidupkan narasi teks, cerita fabel/cerita rakyat, naskah sastra, atau informasi ilmiah melalui bahasa rupa yang komunikatif dan berkarakter.",
+      "urutan": 5,
+      "tema": "Unit 5: Ilustrasi Deskriptif",
+      "tujuan_pembelajaran": [
+        "Menganalisis teks narasi/cerita untuk menentukan adegan kunci (focal moment) yang perlu diilustrasikan.",
+        "Merancang desain karakter tokoh dan latar suasana (setting layout) yang komunikatif dan deskriptif.",
+        "Mengintegrasikan unsur ilustrasi visual dengan tata letak teks (tipografi) secara harmonis dan komunikatif."
+      ],
+      "materi_teks": "\n### 1. Hakikat Seni Ilustrasi Deskriptif\nIlustrasi berasal dari kata latin *illustrare* yang berarti menerangi atau memperjelas. Ilustrasi deskriptif bertugas menerjemahkan teks verbal ke dalam bahasa rupa agar pembaca lebih mudah memahami dan membayangkan isi cerita/informasi.\n- **Fungsi Deskriptif**: Menggambarkan wujud fisik tokoh, gestur emosi, latar waktu/tempat, dan interaksi aksi cerita secara gamblang.\n- **Ragam Ilustrasi**: Ilustrasi buku cerita anak, ilustrasi naskah fabel/cerita rakyat, ilustrasi editorial berita, dan infografis ilmiah.\n\n---\n\n### 2. Elemen Pokok Ilustrasi Deskriptif\n1. **Desain Karakter (Character Design)**: Ciri fisik unik, proporsi tubuh, kostum, dan ekspresi mimik wajah tokoh.\n2. **Latar Suasana (Setting & Environment)**: Menggambarkan atmosfer ruang dan waktu (siang terik di pasar tradisional, malam temaram di tengah hutan rimba).\n3. **Sudut Pandang Kamera Visual (Point of View / Angle)**: *Eye level* (sejajar mata), *Bird's eye view* (sudut atas luas), atau *Worm's eye view* (sudut bawah dramatis).\n4. **Relasi Teks dan Gambar (Layout Tipografi)**: Penataan ruang kosong (negative space) untuk menempatkan teks cerita tanpa menutupi bagian utama ilustrasi.\n    ",
+      "video_url": "https://www.youtube-nocookie.com/embed/n4K0L9U8P7M",
+      "video_title": "Seni Ilustrasi Deskriptif: Menghidupkan Cerita dan Narasi Melalui Visual",
+      "quiz_data": [
+        {
+          "id": 1,
+          "question": "Fungsi utama dari seni ilustrasi deskriptif dalam sebuah naskah atau buku adalah...",
+          "options": [
+            "Membuat halaman buku menjadi gelap pekat",
+            "Menerangkan, memperjelas, dan menghidupkan narasi teks secara visual agar mudah dipahami pembaca",
+            "Menggantikan semua kata-kata sehingga buku tidak perlu dibaca",
+            "Menutupi tulisan yang salah cetak"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ilustrasi deskriptif memperjelas dan memperkaya imajinasi pembaca mengenai isi teks cerita."
+        },
+        {
+          "id": 2,
+          "question": "Dalam menggambar karakter tokoh ilustrasi, unsur visual yang paling efektif menyampaikan suasana batin emosi tokoh adalah...",
+          "options": [
+            "Ketebalan kertas gambar",
+            "Mimik ekspresi wajah dan gestur bahasa tubuh tokoh",
+            "Merek pensil yang digunakan",
+            "Ukuran cap stempel"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ekspresi wajah dan gerak tubuh (gesture) merupakan bahasa universal penyampai emosi tokoh cerita."
+        },
+        {
+          "id": 3,
+          "question": "Sudut pandang penggambaran dari atas seperti pandangan mata burung yang terbang tinggi untuk memperlihatkan bentang latar luas disebut...",
+          "options": [
+            "Worm’s eye view",
+            "Bird’s eye view",
+            "Close-up mikro",
+            "Siluet terbalik"
+          ],
+          "answerIndex": 1,
+          "explanation": "Bird’s eye view menampilkan sudut pandang dari atas untuk memperlihatkan panorama ruang dan situasi luas."
+        },
+        {
+          "id": 4,
+          "question": "Area kosong pada lembar gambar yang sengaja disisakan agar susunan teks dan ilustrasi tampak bernapas lega dan seimbang disebut...",
+          "options": [
+            "Ruang negatif (white space / negative space)",
+            "Ruang sempit",
+            "Ruang arsip",
+            "Distorsi garis"
+          ],
+          "answerIndex": 0,
+          "explanation": "White space atau ruang negatif memberikan kejelasan visual dan kenyamanan membaca tata letak layout."
+        },
+        {
+          "id": 5,
+          "question": "Langkah pertama yang wajib dilakukan seorang ilustrator sebelum mulai menggambar ilustrasi deskriptif adalah...",
+          "options": [
+            "Langsung mewarnai kanvas dengan kuas besar",
+            "Membaca dan membedah isi teks secara mendalam untuk menangkap inti suasana dan adegan kunci",
+            "Membeli figura emas",
+            "Menulis surat tanda tangan"
+          ],
+          "answerIndex": 1,
+          "explanation": "Membedah teks narasi adalah tahap krusial agar visual yang diciptakan akurat dan selaras dengan amanat cerita."
+        }
+      ],
+      "matching_quiz": {
+        "title": "Kuis Menjodohkan: Prinsip & Komponen Ilustrasi Deskriptif",
+        "instruction": "Hubungkan istilah elemen ilustrasi deskriptif di kolom kiri dengan perannya di kolom kanan!",
+        "pairs": [
+          {
+            "id": "u5-m1",
+            "left": "Focal Moment",
+            "right": "Adegan kunci atau puncak klimaks dari narasi cerita yang paling esensial untuk divisualisasikan",
+            "explanation": "Focal moment adalah titik balik terpenting dalam cerita yang paling berdaya pikat visual."
+          },
+          {
+            "id": "u5-m2",
+            "left": "Desain Karakter (Character)",
+            "right": "Perancangan ciri fisik, proporsi tubuh, kostum, dan ekspresi wajah tokoh agar mudah dikenali pembaca",
+            "explanation": "Desain karakter membangun kepribadian unik dan konsistensi visual tokoh di setiap halaman."
+          },
+          {
+            "id": "u5-m3",
+            "left": "Hierarki Visual & Tipografi",
+            "right": "Penataan tata letak antara gambar ilustrasi dan teks cerita agar seimbang, runtut, dan mudah dibaca",
+            "explanation": "Hierarki visual memandu alur mata pembaca dari gambar ke teks secara nyaman."
+          },
+          {
+            "id": "u5-m4",
+            "left": "Ilustrasi Editorial",
+            "right": "Karya ilustrasi yang menyertai artikel berita atau esai opini untuk menyampaikan kritik dan pesan isu aktual",
+            "explanation": "Ilustrasi editorial memberikan sudut pandang kritis atau metaforis atas berita terkini."
+          },
+          {
+            "id": "u5-m5",
+            "left": "Ruang Negatif (White Space)",
+            "right": "Area kosong sengaja disisakan agar komposisi ilustrasi dan teks tampak bernapas lega dan tidak sesak",
+            "explanation": "Ruang negatif memberikan ketenangan visual dan meningkatkan keterbacaan layout."
+          }
+        ]
+      },
+      "fill_blank_quiz": {
+        "title": "Kuis Isian Rumpang (Fill in the Blank): Ilustrasi Deskriptif",
+        "instruction": "Ketik istilah seni ilustrasi yang tepat untuk melengkapi kalimat berikut!",
+        "questions": [
+          {
+            "id": 1,
+            "sentence_before": "Istilah ilustrasi berakar dari bahasa Latin \"illustrare\" yang memiliki arti menerangi atau ",
+            "target_word": "memperjelas",
+            "sentence_after": ".",
+            "hint": "Kata kerja berawalan \"M\" (membuat sesuatu menjadi terang/jelas)",
+            "acceptable_answers": [
+              "memperjelas",
+              "menjelaskan",
+              "menerangkan"
+            ],
+            "explanation": "Ilustrasi memperjelas pesan tekstual agar pembaca dapat memvisualisasikan isi cerita."
+          },
+          {
+            "id": 2,
+            "sentence_before": "Adegan puncak klimaks atau momen kunci terpenting dalam narasi yang dipilih untuk digambar disebut ",
+            "target_word": "focal moment",
+            "sentence_after": ".",
+            "hint": "Istilah dua kata bahasa Inggris berawalan \"F\" dan \"M\"",
+            "acceptable_answers": [
+              "focal moment",
+              "momen puncak",
+              "adegan kunci"
+            ],
+            "explanation": "Focal moment merangkum esensi dramatik peristiwa dalam sebuah visual tunggal."
+          },
+          {
+            "id": 3,
+            "sentence_before": "Lembar rancangan profil tokoh yang memuat proporsi tubuh, ragam ekspresi wajah, dan palet warna disebut lembar desain ",
+            "target_word": "karakter",
+            "sentence_after": ".",
+            "hint": "Kata berawalan huruf \"K\" (tokoh/peran cerita)",
+            "acceptable_answers": [
+              "karakter",
+              "tokoh",
+              "character"
+            ],
+            "explanation": "Desain karakter menjadi acuan baku ilustrator agar wujud tokoh konsisten di setiap adegan."
+          },
+          {
+            "id": 4,
+            "sentence_before": "Sudut pandang penggambaran dari ketinggian atas seperti sudut pandang mata burung yang terbang luas dinamakan sudut pandang ",
+            "target_word": "bird's eye view",
+            "sentence_after": ".",
+            "hint": "Istilah kamera / perspektif bahasa Inggris: bird...",
+            "acceptable_answers": [
+              "bird's eye view",
+              "birds eye view",
+              "bird eye view",
+              "mata burung"
+            ],
+            "explanation": "Bird’s eye view menampilkan lanskap luas untuk mempertegas setting lingkungan cerita."
+          }
+        ]
+      },
+      "game_data": {
+        "type": "gallery_layout",
+        "title": "Simulator Komposisi Ilustrasi Deskriptif",
+        "instruction": "Susun elemen tata letak ilustrasi deskriptif berikut agar narasi visual tersampaikan harmonis!",
+        "items": [
+          {
+            "zone": "Focal Point Utama",
+            "element": "Karakter tokoh sentral dengan ekspresi mimik dan gestur aksi dinamis"
+          },
+          {
+            "zone": "Latar Depan (Foreground)",
+            "element": "Objek pembingkai visual (misal: dahan daun atau bebatuan pembatas)"
+          },
+          {
+            "zone": "Latar Belakang (Background)",
+            "element": "Suasana ruang setting waktu (cakrawala senja atau interior ruangan)"
+          },
+          {
+            "zone": "Ruang Tipografi",
+            "element": "Area negatif bersih untuk keterbacaan teks narasi deskriptif"
+          }
+        ]
+      }
+    }
+  ],
+  "lkpd_questions": [
+    {
+      "id": "q-1-1",
+      "level_id": "level-1",
+      "urutan": 1,
+      "pertanyaan": "1. Masalah / Potensi Lingkungan — Apa yang Kamu Amati? (Jelaskan: masalah atau potensi yang kamu temukan di lingkungan sekitar, lokasi pengamatan spesifik, dan alasan mengapa masalah/potensi tersebut menarik untuk dijadikan ide karya seni!)",
+      "tipe_input": "textarea",
+      "panduan": "Rincikan hasil observasi lapangan secara konkret: lokasi spesifik, fenomena limbah atau kondisi fisik lingkungan, dan urgensi diangkat menjadi seni rupa."
+    },
+    {
+      "id": "q-1-2",
+      "level_id": "level-1",
+      "urutan": 2,
+      "pertanyaan": "2. Konsep Karya — Tema, Tujuan, dan Pesan yang Ingin Disampaikan (Rancang: tema karya yang dipilih, tujuan karya bagi audiens, pesan persuasif spesifik, dan bentuk karya yang dipilih: lukisan, poster, mural, kolase, patung/3D, instalasi seni, karya barang bekas, fotografi, seni digital, atau lainnya!)",
+      "tipe_input": "textarea",
+      "panduan": "Gunakan corong konsep: dari tema luas, tujuan terukur, pesan komunikatif, hingga pemilihan bentuk rupa fisik atau digital yang paling relevan."
+    },
+    {
+      "id": "q-1-3",
+      "level_id": "level-1",
+      "urutan": 3,
+      "pertanyaan": "3. Teknik & Media yang Akan Digunakan (Uraikan: teknik berkarya, media/bahan utama, alat bantu, bahan bekas/ramah lingkungan yang digunakan, serta alasan kritis mengapa memilih teknik dan media tersebut!)",
+      "tipe_input": "textarea",
+      "panduan": "Sebutkan media daur ulang (kardus, botol plastik, perca dll), peralatan aman, perekat ramah lingkungan, dan pertimbangan higienitas serta keawetan."
+    },
+    {
+      "id": "q-1-4",
+      "level_id": "level-1",
+      "urutan": 4,
+      "pertanyaan": "4. Perkiraan Waktu Pengerjaan & Jadwal (Tentukan: estimasi waktu pengerjaan total dan rincian alokasi jadwal pada 6 tahapan: (1) Mencari dan mengembangkan ide, (2) Menyiapkan alat dan bahan, (3) Membuat rancangan/sketsa, (4) Proses pembuatan karya, (5) Penyelesaian dan penyempurnaan, (6) Presentasi/pameran karya!)",
+      "tipe_input": "textarea",
+      "panduan": "Buat estimasi waktu realistis (misal target mingguan atau pertemuan) untuk setiap tahap pengerjaan proyek."
+    },
+    {
+      "id": "q-1-5",
+      "level_id": "level-1",
+      "urutan": 5,
+      "pertanyaan": "5. Rencana Proses Pembuatan Karya (Tuliskan langkah-langkah terstruktur yang akan kamu lakukan dari awal sampai karya selesai pada 7 tahap: (1) Observasi, (2) Menentukan ide, (3) Membuat sketsa/rancangan, (4) Menyiapkan alat dan bahan, (5) Membuat karya, (6) Finishing, (7) Presentasi/Pameran!)",
+      "tipe_input": "textarea",
+      "panduan": "Deskripsikan aksi operasional terperinci yang akan kamu jalankan di masing-masing dari ke-7 tahapan kegiatan tersebut."
+    },
+    {
+      "id": "q-1-6",
+      "level_id": "level-1",
+      "urutan": 6,
+      "pertanyaan": "6. Sketsa / Rancangan Karya (Rumuskan: judul sementara karya, deskripsi singkat rancangan komposisi, warna, tekstur, dan visualisasi sketsa ide karyamu!)",
+      "tipe_input": "textarea",
+      "panduan": "Jelaskan judul karya, deskripsi visual (focal point, dimensi, pemilihan warna), dan buat gambar sketsa pada kanvas sketsa LKPD."
+    },
+    {
+      "id": "q-1-7",
+      "level_id": "level-1",
+      "urutan": 7,
+      "pertanyaan": "7. Dampak yang Diharapkan (Pilih indikator dampak positif bagi lingkungan yang ditargetkan dan jelaskan secara mendalam bagaimana karya senimu dapat mewujudkan dampak tersebut!)",
+      "tipe_input": "textarea",
+      "panduan": "Hubungkan dengan kesadaran kebersihan, pengurangan limbah, pemanfaatan barang bekas, ajakan menjaga lingkungan, beautifikasi, kritik sosial, atau inspirasi berkelanjutan."
+    },
+    {
+      "id": "q-1-8",
+      "level_id": "level-1",
+      "urutan": 8,
+      "pertanyaan": "8. Refleksi & Komitmen Berkreasi (Jawab pertanyaan reflektif: (1) hal baru yang ditemukan, (2) alasan seni efektif menyampaikan pesan ekologis, (3) tantangan teknis & solusi, (4) manfaat bagi sesama/bumi, serta ikrar komitmenmu sebagai seniman peduli lingkungan!)",
+      "tipe_input": "textarea",
+      "panduan": "Tuliskan refleksi evaluatif yang jujur dan bermakna mengenai pengalaman belajar serta komitmenmu dalam menjaga kelestarian bumi."
+    },
+    {
+      "id": "q-1-9",
+      "level_id": "level-1",
+      "urutan": 9,
+      "pertanyaan": "LKPD 2 - Bagian 1: Eksperimen Material Limbah & Uji Daya Tahan Perekat (Uraikan hasil pengujian jenis material limbah ramah lingkungan yang digunakan, kekuatan sambungan/perekat non-toksik yang paling efektif, serta daya tahan bahan terhadap cuaca/air!)",
+      "tipe_input": "textarea",
+      "panduan": "Jelaskan hasil uji coba sambungan (misal lem tembak ramah lingkungan, kawat, tali rami, lem putih PVA) dan kecocokan pada material daur ulang."
+    },
+    {
+      "id": "q-1-10",
+      "level_id": "level-1",
+      "urutan": 10,
+      "pertanyaan": "LKPD 2 - Bagian 2: Logbook / Jurnal Tahapan Produksi & Pemecahan Masalah (Tuliskan catatan progres tahapan pembuatan karya mulai dari pembersihan bahan mentah, pembuatan struktur rangka, perakitan wujud seni, hingga finishing serta inovasi pemecahan kendala teknis yang dihadapi!)",
+      "tipe_input": "textarea",
+      "panduan": "Rincikan kronologi pengerjaan karya pertemuan demi pertemuan beserta troubleshooting kendala yang berhasil diselesaikan."
+    },
+    {
+      "id": "q-1-11",
+      "level_id": "level-1",
+      "urutan": 11,
+      "pertanyaan": "LKPD 2 - Bagian 3: Keselamatan Kerja (K3) & Pengelolaan Sampah Sisa (Zero-Waste) (Jelaskan penerapan keselamatan kerja selama proses berkarya dan bagaimana kamu mengelola remah/sisa potongan agar tidak menjadi limbah baru!)",
+      "tipe_input": "textarea",
+      "panduan": "Deskripsikan penggunaan APD sederhana (sarung tangan/masker) dan prinsip zero-waste selama proses pembuatan karya seni rupa."
+    },
+    {
+      "id": "q-1-12",
+      "level_id": "level-1",
+      "urutan": 12,
+      "pertanyaan": "LKPD 3 - Bagian 1: Manajemen Display Pameran & Narasi Kuratorial Ekologis (Rancang tata display karya seni pameran, buat label karya/caption resmi, dan tuliskan narasi kuratorial yang menggugah emosi pengunjung!)",
+      "tipe_input": "textarea",
+      "panduan": "Sertakan judul resmi, nama seniman, ukuran, media bahan limbah, serta esai kuratorial singkat yang menjelaskan filosofi kepedulian lingkungan."
+    },
+    {
+      "id": "q-1-13",
+      "level_id": "level-1",
+      "urutan": 13,
+      "pertanyaan": "LKPD 3 - Bagian 2: Pengujian Lapangan 7 Spektrum Dampak Positif & Umpan Balik Pengunjung (Ukur ketercapaian dampak nyata karya senimu bagi lingkungan sekolah/komunitas serta rangkum hasil survei respons audiens yang melihat karya!)",
+      "tipe_input": "textarea",
+      "panduan": "Kaitkan dengan reduksi sampah nyata, testimoni pengunjung tentang pesan yang tersampaikan, dan potensi inspirasi aksi nyata."
+    },
+    {
+      "id": "q-1-14",
+      "level_id": "level-1",
+      "urutan": 14,
+      "pertanyaan": "LKPD 3 - Bagian 3: Rubrik Asesmen Diri/Antarteman & Rencana Aksi Keberlanjutan Pascaproyek (Lakukan penilaian reflektif terhadap karya sendiri/rekan sebaya dan susun rencana perawatan karya serta komitmen gaya hidup ramah lingkungan setelah proyek berakhir!)",
+      "tipe_input": "textarea",
+      "panduan": "Evaluasi 4 kriteria asesmen dan rumuskan aksi nyata keberlanjutan yang akan diteruskan di sekolah atau lingkungan tempat tinggal."
+    },
+    {
+      "id": "q-2-1",
+      "level_id": "level-2",
+      "urutan": 1,
+      "pertanyaan": "LKPD 1 - Tahap 1: DESKRIPSI (Pilihlah satu karya seni rupa maestro seperti \"Penangkapan Pangeran Diponegoro\" karya Raden Saleh atau karya teman di galeri sekolah. Tuliskan data fisik: judul, seniman, tahun, media, ukuran, serta catat seluruh objek kasat mata secara objektif apa adanya tanpa opini pribadi!)",
+      "tipe_input": "textarea",
+      "panduan": "Sesuai naskah Bahan Ajar Kritik Seni Rupa, catat fakta visual empiris secara objektif dengan istilah teknis seni rupa yang tepat tanpa mengambil kesimpulan prematur."
+    },
+    {
+      "id": "q-2-2",
+      "level_id": "level-2",
+      "urutan": 2,
+      "pertanyaan": "LKPD 1 - Tahap 2: ANALISIS FORMAL (Bedah penataan unsur rupa: garis, bidang, bentuk, warna, tekstur, ruang, serta prinsip komposisi: keseimbangan, irama, kesatuan, dan focal point pada karya pilihanmu tersebut!)",
+      "tipe_input": "textarea",
+      "panduan": "Jelaskan bagaimana unsur-unsur visual diorganisasi dan di mana letak pusat perhatian (focal point) yang memikat pandangan pertama pengamat."
+    },
+    {
+      "id": "q-2-3",
+      "level_id": "level-2",
+      "urutan": 3,
+      "pertanyaan": "LKPD 1 - Tahap 3: INTERPRETASI (Tafsirkan makna batin, gagasan tematik, pesan filosofis, serta simbol-simbol yang dihadirkan seniman dalam karya tersebut!)",
+      "tipe_input": "textarea",
+      "panduan": "Eksplorasi makna tersirat dan emosi yang ingin dikomunikasikan perupa melalui bahasa visual simbolik."
+    },
+    {
+      "id": "q-2-4",
+      "level_id": "level-2",
+      "urutan": 4,
+      "pertanyaan": "LKPD 1 - Tahap 4: EVALUASI / PENILAIAN (Tentukan kualitas dan mutu karya bila dibandingkan dengan karya lain yang sejenis secara kritis, adil, rasional, dan santun!)",
+      "tipe_input": "textarea",
+      "panduan": "Kaitkan dengan orisinalitas, kematangan teknik berkarya, kebaruan gagasan, serta fungsi karya yang ditelaah."
+    },
+    {
+      "id": "q-2-5",
+      "level_id": "level-2",
+      "urutan": 5,
+      "pertanyaan": "LKPD 2 - Bagian 1: Komparasi 4 Pendekatan Kritik Seni (Jelaskan perbedaan mendasar antara Pendekatan Formalistik, Ekspresionistik, Instrumentalistik, dan Kontekstual beserta fokus bedah masing-masing pendekatan!)",
+      "tipe_input": "textarea",
+      "panduan": "Rincikan fokus masing-masing: formalistik (unsur visual fisik), ekspresionistik (emosi batin), instrumentalistik (sarana pesan moral/politik), dan kontekstual (kaitan historis & sosial)."
+    },
+    {
+      "id": "q-2-6",
+      "level_id": "level-2",
+      "urutan": 6,
+      "pertanyaan": "LKPD 2 - Bagian 2: Kajian Kontekstual Lukisan Raden Saleh \"Penangkapan Pangeran Diponegoro\" (Bedah bagaimana Raden Saleh menyelipkan pesan perlawanan moral anti-kolonial, martabat bangsa, dan kritik sejarah terhadap tipu daya Belanda dalam lukisannya!)",
+      "tipe_input": "textarea",
+      "panduan": "Analisis gestur tegar Pangeran Diponegoro, ekspresi pengikutnya, perbedaan dengan lukisan versi Pieneman, dan kehadiran figur Raden Saleh sendiri di lukisan."
+    },
+    {
+      "id": "q-2-7",
+      "level_id": "level-2",
+      "urutan": 7,
+      "pertanyaan": "LKPD 2 - Bagian 3: Eksplorasi Pendekatan Kontekstual pada Karya Seni Kontemporer / Sekitar (Pilihlah satu karya seni rupa masa kini di lingkunganmu dan telaah keterkaitannya dengan isu sosial, lingkungan hidup, atau budaya lokal!)",
+      "tipe_input": "textarea",
+      "panduan": "Kaitkan pesan karya dengan persoalan nyata di masyarakat (misal lukisan mural kepedulian sampah atau instalasi kritik sosial)."
+    },
+    {
+      "id": "q-2-8",
+      "level_id": "level-2",
+      "urutan": 8,
+      "pertanyaan": "LKPD 3 - Bagian 1: Simulasi Penulisan Kritik Jurnalistik vs Kritik Pedagogik (Buatlah draf artikel ulasan singkat bergaya jurnalistik untuk media massa, lalu bandingkan dengan draf kritik pedagogik yang membimbing siswa di sekolah!)",
+      "tipe_input": "textarea",
+      "panduan": "Tunjukkan perbedaan gaya bahasa (lugas & menarik untuk umum vs edukatif, apresiatif & memberi saran perbaikan untuk siswa)."
+    },
+    {
+      "id": "q-2-9",
+      "level_id": "level-2",
+      "urutan": 9,
+      "pertanyaan": "LKPD 3 - Bagian 2: Refleksi Penerapan Fungsi \"Dua Mata Panah\" Kritik Seni (Jelaskan mengapa kritik seni diibaratkan sebagai dua mata panah yang saling dibutuhkan oleh seniman pencipta dan oleh masyarakat penikmat seni!)",
+      "tipe_input": "textarea",
+      "panduan": "Uraikan manfaat kritik bagi seniman (mendeteksi kekurangan & ruang refleksi) dan bagi penikmat seni (tali penghubung pemahaman realita artistik dan estetik)."
+    },
+    {
+      "id": "q-2-10",
+      "level_id": "level-2",
+      "urutan": 10,
+      "pertanyaan": "LKPD 3 - Bagian 3: Lembar Asesmen Antarteman (Peer-Review) & Standar Etika Bahasa Kritikus (Lakukan ulasan apresiasi terhadap karya salah satu teman sekelasmu menggunakan 4 kriteria asesmen dengan bahasa yang santun, efektif, dan komunikatif!)",
+      "tipe_input": "textarea",
+      "panduan": "Berikan apresiasi pada kelebihan karya teman, tunjukkan aspek yang dapat ditingkatkan, dan sampaikan saran perbaikan yang konstruktif."
+    },
+    {
+      "id": "q-3-1",
+      "level_id": "level-3",
+      "urutan": 1,
+      "pertanyaan": "Dalam proyek berkarya seni rupa 3 dimensi kriya fashion ini, tentukan bahan limbah utama yang kamu pilih (Pelepah Pisang, Daun Pandan, atau Tas Kresek)! Jelaskan alasan pemilihan bahan tersebut serta bentuk produk yang kamu rancang (Tas Selempang, Totebag, Dompet, atau Pouch)!",
+      "tipe_input": "textarea",
+      "panduan": "Sebutkan jenis material, kondisi bahan limbah yang didapatkan, dan alasan mengapa produk tersebut fungsional serta menarik secara estetis."
+    },
+    {
+      "id": "q-3-2",
+      "level_id": "level-3",
+      "urutan": 2,
+      "pertanyaan": "Uraikan secara kronologis 5 tahapan siklus daur ulang yang kamu lalui: (1) Pengumpulan, (2) Pemilahan, (3) Pembersihan & Pengeringan, (4) Pengolahan Bahan/Teknik Anyam/Pilin/Setrika Fused Plastic, hingga (5) Pembuatan & Finishing Produk 3 Dimensi!",
+      "tipe_input": "textarea",
+      "panduan": "Ceritakan detail teknis pengerjaan nyata di studio/rumah agar konsistensi proses karya 3 dimensi terlihat jelas."
+    },
+    {
+      "id": "q-3-3",
+      "level_id": "level-3",
+      "urutan": 3,
+      "pertanyaan": "Analisis nilai guna (kegunaan fungsional dalam kehidupan sehari-hari) serta nilai estetika (keindahan bentuk, warna, tekstur ruang nyata) dari produk kriya 3 dimensi yang telah kamu buat! Apa kendala teknis yang dihadapi dan bagaimana solusinya?",
+      "tipe_input": "textarea",
+      "panduan": "Tuliskan evaluasi kritis mengenai kekuatan konstruksi 3D, kerapian jahitan/anyaman, serta daya tahan pakai produk kriya daur ulangmu."
+    },
+    {
+      "id": "q-4-1",
+      "level_id": "level-4",
+      "urutan": 1,
+      "pertanyaan": "LKPD 1 - Bagian 1: Penggalian Ide Batin & Memori Personal (Gali dan ceritakan sumber inspirasi batin yang mendasari karyamu: pengalaman masa lalu, kenangan berharga, mimpi, atau gejolak emosi personal apa yang ingin kamu curahkan menjadi karya seni rupa?)",
+      "tipe_input": "textarea",
+      "panduan": "Tuliskan refleksi batinmu secara jujur dan orisinal sebagai fondasi emosional karya ekspresi personal."
+    },
+    {
+      "id": "q-4-2",
+      "level_id": "level-4",
+      "urutan": 2,
+      "pertanyaan": "LKPD 1 - Bagian 2: Pemilihan Gaya Ekspresi & Metafora Visual (Gaya seni ekspresi apa yang kamu pilih: Ekspresionisme dengan sapuan bebas emosional, Surealisme alam mimpi, atau Simbolisme? Objek metafora visual apa yang kamu pakai untuk mewakili perasaanmu?)",
+      "tipe_input": "textarea",
+      "panduan": "Jelaskan hubungan antara objek simbolik (misal sayap rapuh, jam meleleh, akar pohon melilit, warna ungu gelap) dengan suasana batin yang kamu maksud."
+    },
+    {
+      "id": "q-4-3",
+      "level_id": "level-4",
+      "urutan": 3,
+      "pertanyaan": "LKPD 1 - Bagian 3: Makna Katarsis & Komunikasi Batin (Bagaimana proses penciptaan karya ekspresi personal ini membantumu memahami dirimu sendiri? Apa pesan terdalam yang kamu harapkan dapat dirasakan oleh orang lain saat menatap karyamu?)",
+      "tipe_input": "textarea",
+      "panduan": "Uraikan nilai katarsis personal dan komunikasi empatik yang ingin kamu bangun antara karyamu dan apresiator."
+    },
+    {
+      "id": "q-4-4",
+      "level_id": "level-4",
+      "urutan": 4,
+      "pertanyaan": "LKPD 2 - Bagian 1: Eksperimen Media & Teknik Goresan Katarsis (Uraikan hasil uji coba media dan teknik ekspresi yang kamu gunakan: cat akrilik/minyak, teknik plototan jari ala Affandi, sapuan impasto bertekstur tebal, atau kolase barang kenangan pribadi yang memperkuat intensitas rasa!)",
+      "tipe_input": "textarea",
+      "panduan": "Deskripsikan karakter media yang dipilih, ketebalan tekstur, dan bagaimana spontanitas sapuan kuas/jari mewakili getaran batin."
+    },
+    {
+      "id": "q-4-5",
+      "level_id": "level-4",
+      "urutan": 5,
+      "pertanyaan": "LKPD 2 - Bagian 2: Studi Komparasi Gaya Maestro Ekspresi (Bandingkan caramu berekspresi dengan gaya maestro dunia/Indonesia, misalnya Affandi dengan energi plototan spontan, Edvard Munch dengan distorsi kegelisahan jiwa, atau Salvador Dalí dengan paradoks alam mimpi!)",
+      "tipe_input": "textarea",
+      "panduan": "Tunjukkan kesamaan spirit atau inspirasi teknis yang kamu serap dari karya maestro rujukan."
+    },
+    {
+      "id": "q-4-6",
+      "level_id": "level-4",
+      "urutan": 6,
+      "pertanyaan": "LKPD 2 - Bagian 3: Eksplorasi Palet Warna Psikologis (Psychology of Color) (Jelaskan pilihan palet warna emosional dalam karyamu: bagaimana paduan warna panas, dingin, kontras, atau monokromatik merefleksikan suasana batin yang ingin kamu luapkan!)",
+      "tipe_input": "textarea",
+      "panduan": "Kaitkan nuansa rona warna (misal merah membara, biru kelam, kuning harapan) dengan emosi psikologis yang dialami."
+    },
+    {
+      "id": "q-4-7",
+      "level_id": "level-4",
+      "urutan": 7,
+      "pertanyaan": "LKPD 3 - Bagian 1: Pernyataan Seniman Resmi (Artist Statement) (Susunlah naskah Artist Statement formal untuk pameran galeri: judul karya, ukuran & media, latar belakang konseptual, dan esai naratif yang mengupas makna terdalam karyamu!)",
+      "tipe_input": "textarea",
+      "panduan": "Tuliskan pernyataan seniman yang puitis, berbobot, dan mengantarkan apresiator memasuki ruang batin karyamu."
+    },
+    {
+      "id": "q-4-8",
+      "level_id": "level-4",
+      "urutan": 8,
+      "pertanyaan": "LKPD 3 - Bagian 2: Apresiasi Empatis Antarteman (Peer Empathy Review) (Lakukan penelaahan empatik terhadap karya ekspresi salah satu teman sekelas: tafsirkan suasana perasaan yang terpancar, keunikan bahasa visualnya, dan sampaikan apresiasi yang menguatkan!)",
+      "tipe_input": "textarea",
+      "panduan": "Gunakan pendekatan empati yang santun, peka, dan menghargai kejujuran batin teman sebaya tanpa menghakimi."
+    },
+    {
+      "id": "q-4-9",
+      "level_id": "level-4",
+      "urutan": 9,
+      "pertanyaan": "LKPD 3 - Bagian 3: Refleksi Transformasi Diri & Katarsis Jiwa (Uraikan bagaimana proses menuangkan emosi ke atas kanvas/media seni membantu melepaskan beban psikologis (self-healing), menumbuhkan kedamaian batin, dan memperkuat penerimaan diri!)",
+      "tipe_input": "textarea",
+      "panduan": "Tuliskan refleksi introspektif mengenai perubahan suasana hati sebelum dan sesudah menyelesaikan karya ekspresi personal."
+    },
+    {
+      "id": "q-5-1",
+      "level_id": "level-5",
+      "urutan": 1,
+      "pertanyaan": "LKPD 1 - Bagian 1: Analisis Naskah Cerita & Penetapan Momen Kunci (Focal Moment) (Kutipan teks cerita, dongeng fabel, legenda nusantara, naskah puisi, atau informasi deskriptif apa yang kamu pilih? Mengapa adegan tersebut yang kamu tetapkan sebagai momen puncak yang paling memikat secara visual?)",
+      "tipe_input": "textarea",
+      "panduan": "Sertakan cuplikan teks narasi rujukan dan argumentasikan mengapa momen dramatik tersebut paling efektif diwujudkan ke dalam ilustrasi."
+    },
+    {
+      "id": "q-5-2",
+      "level_id": "level-5",
+      "urutan": 2,
+      "pertanyaan": "LKPD 1 - Bagian 2: Konseptualisasi Karakter Tokoh & Latar Suasana (Jelaskan bagaimana kamu merancang wujud fisik tokoh utama (mimik ekspresi wajah, proporsi, kostum) serta latar suasana ruang/waktu (setting background) agar narasi cerita tampak hidup dan meyakinkan!)",
+      "tipe_input": "textarea",
+      "panduan": "Rincikan ciri khas visual tokoh dan bagaimana atmosfer pencahayaan atau suasana latar mendukung alur cerita."
+    },
+    {
+      "id": "q-5-3",
+      "level_id": "level-5",
+      "urutan": 3,
+      "pertanyaan": "LKPD 1 - Bagian 3: Rancangan Sketsa Komposisi Dasar & Ruang Negatif (Bagaimana penataan sketsa awal ilustrasi dalam membagi bidang gambar dan menyisakan ruang kosong (negative/white space) untuk keterbacaan teks cerita nantinya?)",
+      "tipe_input": "textarea",
+      "panduan": "Jelaskan rancangan alur pandang mata (visual flow) dan keseimbangan antara objek visual sentral dan ruang teks."
+    },
+    {
+      "id": "q-5-4",
+      "level_id": "level-5",
+      "urutan": 4,
+      "pertanyaan": "LKPD 2 - Bagian 1: Lembar Desain Karakter Terpadu (Character Model Sheet) (Rancang profil karakter tokoh secara terpadu: tampak depan, samping, dan 3/4, variasi mimik ekspresi wajah (senang, terkejut, marah, takut), serta palet warna baku busana tokoh!)",
+      "tipe_input": "textarea",
+      "panduan": "Pastikan desain karakter memiliki siluet yang khas, konsisten dari berbagai sudut pandang, dan mencerminkan watak kepribadian tokoh."
+    },
+    {
+      "id": "q-5-5",
+      "level_id": "level-5",
+      "urutan": 5,
+      "pertanyaan": "LKPD 2 - Bagian 2: Eksplorasi Sudut Pandang Kamera Sinematik (Point of View) (Uraikan pemilihan sudut pandang visual yang kamu terapkan: Bird’s Eye View (pandangan atas luas), Worm’s Eye View (sudut bawah dramatis), atau Eye Level (sejajar intim), serta bagaimana sudut tersebut memperkuat tensi cerita!)",
+      "tipe_input": "textarea",
+      "panduan": "Jelaskan efek psikologis sudut pandang kamera terhadap persepsi emosi pembaca terhadap adegan."
+    },
+    {
+      "id": "q-5-6",
+      "level_id": "level-5",
+      "urutan": 6,
+      "pertanyaan": "LKPD 2 - Bagian 3: Perancangan Latar Suasana & Kedalaman Ruang (Environment Art) (Bagaimana kamu menyusun kedalaman ruang visual melalui pemisahan latar depan (foreground), latar tengah (midground), dan latar belakang (background) serta efek pencahayaan dramatisnya?)",
+      "tipe_input": "textarea",
+      "panduan": "Deskripsikan objek pembingkai di foreground, aktivitas utama di midground, dan panorama atmosfer di background."
+    },
+    {
+      "id": "q-5-7",
+      "level_id": "level-5",
+      "urutan": 7,
+      "pertanyaan": "LKPD 3 - Bagian 1: Tata Letak Terpadu Gambar & Tipografi (Layout & Typography) (Jelaskan perpaduan harmonis antara gambar ilustrasi dengan tata letak teks cerita: jenis font yang dipilih, ukuran hirarki judul dan naskah, serta keterbacaan teks di atas atau di samping ilustrasi!)",
+      "tipe_input": "textarea",
+      "panduan": "Tunjukkan pemilihan jenis tipografi (serif/sans-serif/display) yang senada dengan mood cerita dan tidak saling bertabrakan dengan gambar."
+    },
+    {
+      "id": "q-5-8",
+      "level_id": "level-5",
+      "urutan": 8,
+      "pertanyaan": "LKPD 3 - Bagian 2: Pembuatan Prototipe / Dummy Halaman Cerita Bergambar (Deskripsikan rancangan dummy halaman utuh buku cerita/poster ilustrasi: struktur cover depan, penempatan judul, credit ilustrator, dan komposisi halaman ganda (spread page) yang komunikatif!)",
+      "tipe_input": "textarea",
+      "panduan": "Uraikan hasil akhir layout visual lembar ilustrasi deskriptif yang siap dipublikasikan atau dicetak."
+    },
+    {
+      "id": "q-5-9",
+      "level_id": "level-5",
+      "urutan": 9,
+      "pertanyaan": "LKPD 3 - Bagian 3: Uji Keterbacaan Naratif & Asesmen Antarteman (Peer Usability Review) (Lakukan pengujian keterbacaan bersama teman sekelas: apakah gambar ilustrasi berhasil menerangkan isi cerita tanpa harus membaca teks secara lengkap? Rangkum umpan balik audiens!)",
+      "tipe_input": "textarea",
+      "panduan": "Evaluasi ketercapaian fungsi deskriptif ilustrasi dalam mengedukasi dan menghibur pembaca sasaran."
+    }
+  ],
+  "lkpd_answers": [
+    {
+      "id": "ans-1790142585489-iin6",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-1",
+      "question_id": "q-1-1",
+      "jawaban": "aaaaa",
+      "updated_at": "2026-09-23T05:49:45.489Z"
+    },
+    {
+      "id": "ans-1790142585489-ralc",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-1",
+      "question_id": "q-1-2",
+      "jawaban": "aaaaa",
+      "updated_at": "2026-09-23T05:49:45.489Z"
+    },
+    {
+      "id": "ans-1790142585489-wf9w",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-1",
+      "question_id": "q-1-3",
+      "jawaban": "aaaaa",
+      "updated_at": "2026-09-23T05:49:45.489Z"
+    },
+    {
+      "id": "ans-1790224817373-d0nc",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-2",
+      "question_id": "q-2-1",
+      "jawaban": "aaaaaa",
+      "updated_at": "2026-09-24T04:40:17.373Z"
+    },
+    {
+      "id": "ans-1790224817373-26zc",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-2",
+      "question_id": "q-2-2",
+      "jawaban": "aaaaaa",
+      "updated_at": "2026-09-24T04:40:17.373Z"
+    },
+    {
+      "id": "ans-1790224817373-6mgj",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-2",
+      "question_id": "q-2-3",
+      "jawaban": "aaaaaa",
+      "updated_at": "2026-09-24T04:40:17.373Z"
+    },
+    {
+      "id": "ans-1790224817373-3qs2",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-2",
+      "question_id": "q-2-4",
+      "jawaban": "aaaaa",
+      "updated_at": "2026-09-24T04:40:17.373Z"
+    }
+  ],
+  "user_progress": [
+    {
+      "id": "prog-usr-1790142307092-nv18q-level-1",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-1",
+      "status": "completed",
+      "completed_at": "2026-09-23T05:49:45.489Z"
+    },
+    {
+      "id": "prog-usr-1790142307092-nv18q-level-2",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-2",
+      "status": "completed",
+      "completed_at": "2026-09-24T04:40:17.373Z"
+    },
+    {
+      "id": "prog-usr-1790142307092-nv18q-level-3",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-3",
+      "status": "unlocked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142307092-nv18q-level-4",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-4",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142307092-nv18q-level-5",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-5",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142836261-i3734-level-1",
+      "user_id": "usr-1790142836261-i3734",
+      "level_id": "level-1",
+      "status": "unlocked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142836261-i3734-level-2",
+      "user_id": "usr-1790142836261-i3734",
+      "level_id": "level-2",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142836261-i3734-level-3",
+      "user_id": "usr-1790142836261-i3734",
+      "level_id": "level-3",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142836261-i3734-level-4",
+      "user_id": "usr-1790142836261-i3734",
+      "level_id": "level-4",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142836261-i3734-level-5",
+      "user_id": "usr-1790142836261-i3734",
+      "level_id": "level-5",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142840727-5sinx-level-1",
+      "user_id": "usr-1790142840727-5sinx",
+      "level_id": "level-1",
+      "status": "unlocked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142840727-5sinx-level-2",
+      "user_id": "usr-1790142840727-5sinx",
+      "level_id": "level-2",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142840727-5sinx-level-3",
+      "user_id": "usr-1790142840727-5sinx",
+      "level_id": "level-3",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142840727-5sinx-level-4",
+      "user_id": "usr-1790142840727-5sinx",
+      "level_id": "level-4",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790142840727-5sinx-level-5",
+      "user_id": "usr-1790142840727-5sinx",
+      "level_id": "level-5",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143296368-jm7xh-level-1",
+      "user_id": "usr-1790143296368-jm7xh",
+      "level_id": "level-1",
+      "status": "unlocked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143296368-jm7xh-level-2",
+      "user_id": "usr-1790143296368-jm7xh",
+      "level_id": "level-2",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143296368-jm7xh-level-3",
+      "user_id": "usr-1790143296368-jm7xh",
+      "level_id": "level-3",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143296368-jm7xh-level-4",
+      "user_id": "usr-1790143296368-jm7xh",
+      "level_id": "level-4",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143296368-jm7xh-level-5",
+      "user_id": "usr-1790143296368-jm7xh",
+      "level_id": "level-5",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143315581-drjt0-level-1",
+      "user_id": "usr-1790143315581-drjt0",
+      "level_id": "level-1",
+      "status": "unlocked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143315581-drjt0-level-2",
+      "user_id": "usr-1790143315581-drjt0",
+      "level_id": "level-2",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143315581-drjt0-level-3",
+      "user_id": "usr-1790143315581-drjt0",
+      "level_id": "level-3",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143315581-drjt0-level-4",
+      "user_id": "usr-1790143315581-drjt0",
+      "level_id": "level-4",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143315581-drjt0-level-5",
+      "user_id": "usr-1790143315581-drjt0",
+      "level_id": "level-5",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143352955-pd6y7-level-1",
+      "user_id": "usr-1790143352955-pd6y7",
+      "level_id": "level-1",
+      "status": "unlocked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143352955-pd6y7-level-2",
+      "user_id": "usr-1790143352955-pd6y7",
+      "level_id": "level-2",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143352955-pd6y7-level-3",
+      "user_id": "usr-1790143352955-pd6y7",
+      "level_id": "level-3",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143352955-pd6y7-level-4",
+      "user_id": "usr-1790143352955-pd6y7",
+      "level_id": "level-4",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790143352955-pd6y7-level-5",
+      "user_id": "usr-1790143352955-pd6y7",
+      "level_id": "level-5",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790162631079-pot4l-level-1",
+      "user_id": "usr-1790162631079-pot4l",
+      "level_id": "level-1",
+      "status": "unlocked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790162631079-pot4l-level-2",
+      "user_id": "usr-1790162631079-pot4l",
+      "level_id": "level-2",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790162631079-pot4l-level-3",
+      "user_id": "usr-1790162631079-pot4l",
+      "level_id": "level-3",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790162631079-pot4l-level-4",
+      "user_id": "usr-1790162631079-pot4l",
+      "level_id": "level-4",
+      "status": "locked",
+      "completed_at": null
+    },
+    {
+      "id": "prog-usr-1790162631079-pot4l-level-5",
+      "user_id": "usr-1790162631079-pot4l",
+      "level_id": "level-5",
+      "status": "locked",
+      "completed_at": null
+    }
+  ],
+  "gallery_artworks": [
+    {
+      "id": "art-1",
+      "user_id": "sample-1",
+      "user_name": "Dewi Anjani",
+      "user_class": "XI MIPA 2",
+      "title": "Mimpi dalam Bayang Surealis",
+      "medium": "Cat Akrilik di atas Kanvas (Mixed Texture)",
+      "description": "Eksplorasi alam bawah sadar tentang kecemasan masa depan remaja yang bertransformasi menjadi sayap kupu-kupu mekanis.",
+      "image_url": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=800&auto=format&fit=crop&q=80",
+      "likes": 18,
+      "liked_by": [],
+      "created_at": "2026-09-18T10:15:00Z",
+      "tags": [
+        "Surealisme",
+        "Akrilik",
+        "Unit 1"
+      ]
+    },
+    {
+      "id": "art-2",
+      "user_id": "sample-2",
+      "user_name": "Bima Pratama",
+      "user_class": "XI IPS 1",
+      "title": "Harmoni Limbah Pesisir",
+      "medium": "Kolase Cangkang Kerang, Serbuk Kayu & Akrilik",
+      "description": "Karya seni media campuran yang mengangkat isu kebersihan pantai selatan dengan tekstur impasto pasir alami.",
+      "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800&auto=format&fit=crop&q=80",
+      "likes": 24,
+      "liked_by": [],
+      "created_at": "2026-09-19T14:20:00Z",
+      "tags": [
+        "Mixed Media",
+        "Tekstur Nyata",
+        "Unit 2"
+      ]
+    },
+    {
+      "id": "art-3",
+      "user_id": "sample-3",
+      "user_name": "Siti Rahmawati",
+      "user_class": "XI MIPA 1",
+      "title": "Lampu Geometris Daur Ulang Kertas",
+      "medium": "Paper Mache & Rangka Bambu Vernis",
+      "description": "Karya seni terapan ramah lingkungan memanfaatkan tumpukan kertas ujian bekas menjadi lampu meja ergonomis dengan nuansa temaram etnis.",
+      "image_url": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=800&auto=format&fit=crop&q=80",
+      "likes": 31,
+      "liked_by": [],
+      "created_at": "2026-09-20T08:45:00Z",
+      "tags": [
+        "Seni Terapan",
+        "Upcycling",
+        "Unit 4"
+      ]
+    }
+  ],
+  "forum_threads": [
+    {
+      "id": "thread-1",
+      "user_id": "sample-1",
+      "user_name": "Dewi Anjani",
+      "user_class": "XI MIPA 2",
+      "title": "Tips mencampurkan gesso dengan pasir pantai agar tidak rontok saat kering?",
+      "content": "Halo teman-teman seni rupa kelas XI! Pada penugasan Unit 2 Eksplorasi Media Campuran, saya mencoba mencampur gesso dengan pasir pantai halus. Tapi beberapa bagian ada yang sedikit retak saat mengering di kanvas. Ada yang punya saran rasio campuran lem kayu / akrilik yang ideal?",
+      "category": "Eksplorasi Media & Bahan",
+      "created_at": "2026-09-20T11:00:00Z",
+      "comments_count": 2
+    },
+    {
+      "id": "thread-2",
+      "user_id": "sample-2",
+      "user_name": "Bima Pratama",
+      "user_class": "XI IPS 1",
+      "title": "Perbedaan mendasar antara Analisis Formal dan Interpretasi pada Kritik Feldman",
+      "content": "Bagi teman-teman yang sedang menyelesaikan LKPD Level 3, mari kita diskusikan batasan antara Analisis Formal dan Interpretasi. Menurut modul Feldman, Analisis Formal berfokus murni pada relasi unsur dan prinsip komposisi rupa (seperti keselarasan warna & focal point), sedangkan Interpretasi baru membahas emosi dan makna simboliknya. Apakah ada contoh karya lain yang bisa kita bedah bersama?",
+      "category": "Apresiasi & Kritik Seni",
+      "created_at": "2026-09-21T09:30:00Z",
+      "comments_count": 1
+    },
+    {
+      "id": "thread-3",
+      "user_id": "sample-4",
+      "user_name": "Farhan Maulana",
+      "user_class": "XI IPS 2",
+      "title": "Ide Kurasi dan Tema Pameran Seni Rupa Angkatan Kelas XI",
+      "content": "Untuk persiapan Unit 5 Manajemen Pameran Sekolah, bagaimana jika angkatan kita mengangkat tema \"Resonansi Rupa: Jejak Tradisi Menuju Masa Depan\"? Setiap kelas bisa menyumbang karya 2D dan 3D dengan zonasi pencahayaan yang teratur!",
+      "category": "Pameran Seni Sekolah",
+      "created_at": "2026-09-21T15:00:00Z",
+      "comments_count": 0
+    }
+  ],
+  "forum_comments": [
+    {
+      "id": "comm-1",
+      "thread_id": "thread-1",
+      "user_id": "sample-2",
+      "user_name": "Bima Pratama",
+      "user_class": "XI IPS 1",
+      "content": "Hai Dewi! Coba tambahkan lem putih PVA (lem kayu Fox) dengan perbandingan 2 bagian gesso, 1 bagian lem kayu, dan 1 bagian pasir. Lem kayu akan memberikan elastisitas sehingga lapisan tidak retak getas.",
+      "created_at": "2026-09-20T12:30:00Z"
+    },
+    {
+      "id": "comm-2",
+      "thread_id": "thread-1",
+      "user_id": "sample-3",
+      "user_name": "Siti Rahmawati",
+      "user_class": "XI MIPA 1",
+      "content": "Pastikan juga mengeringkannya di tempat teduh dengan sirkulasi udara baik, jangan langsung di bawah terik matahari ekstrem karena panas mendadak memicu susut dan retak!",
+      "created_at": "2026-09-20T13:45:00Z"
+    },
+    {
+      "id": "comm-3",
+      "thread_id": "thread-2",
+      "user_id": "sample-1",
+      "user_name": "Dewi Anjani",
+      "user_class": "XI MIPA 2",
+      "content": "Sangat setuju Bima! Pada lukisan Affandi misalnya, Analisis Formal membahas goresan meliuk tebal dan warna kuning-merah kontras, sedangkan Interpretasinya menafsirkan rasa syukur atas terbitnya matahari sebagai harapan hidup.",
+      "created_at": "2026-09-21T10:15:00Z"
+    }
+  ],
+  "quiz_scores": [
+    {
+      "id": "qs-1",
+      "user_id": "sample-1",
+      "level_id": "level-1",
+      "quiz_type": "multiple_choice",
+      "score": 100,
+      "total": 100,
+      "updated_at": "2026-09-20T10:00:00Z"
+    },
+    {
+      "id": "qs-2",
+      "user_id": "sample-1",
+      "level_id": "level-1",
+      "quiz_type": "matching",
+      "score": 100,
+      "total": 100,
+      "updated_at": "2026-09-20T10:05:00Z"
+    },
+    {
+      "id": "qs-3",
+      "user_id": "sample-1",
+      "level_id": "level-1",
+      "quiz_type": "fill_in_blank",
+      "score": 100,
+      "total": 100,
+      "updated_at": "2026-09-20T10:10:00Z"
+    },
+    {
+      "id": "qs-4",
+      "user_id": "sample-2",
+      "level_id": "level-1",
+      "quiz_type": "multiple_choice",
+      "score": 80,
+      "total": 100,
+      "updated_at": "2026-09-21T09:00:00Z"
+    },
+    {
+      "id": "qs-5",
+      "user_id": "sample-2",
+      "level_id": "level-1",
+      "quiz_type": "matching",
+      "score": 100,
+      "total": 100,
+      "updated_at": "2026-09-21T09:05:00Z"
+    },
+    {
+      "id": "qs-6",
+      "user_id": "sample-2",
+      "level_id": "level-1",
+      "quiz_type": "fill_in_blank",
+      "score": 75,
+      "total": 100,
+      "updated_at": "2026-09-21T09:10:00Z"
+    },
+    {
+      "id": "qs-7",
+      "user_id": "sample-3",
+      "level_id": "level-1",
+      "quiz_type": "multiple_choice",
+      "score": 100,
+      "total": 100,
+      "updated_at": "2026-09-21T11:00:00Z"
+    },
+    {
+      "id": "qs-8",
+      "user_id": "sample-3",
+      "level_id": "level-1",
+      "quiz_type": "matching",
+      "score": 80,
+      "total": 100,
+      "updated_at": "2026-09-21T11:05:00Z"
+    },
+    {
+      "id": "qs-9",
+      "user_id": "sample-3",
+      "level_id": "level-1",
+      "quiz_type": "fill_in_blank",
+      "score": 100,
+      "total": 100,
+      "updated_at": "2026-09-21T11:10:00Z"
+    },
+    {
+      "id": "qs-1790224156374-yfhv",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-2",
+      "quiz_type": "multiple_choice",
+      "score": 100,
+      "total": 100,
+      "updated_at": "2026-09-24T04:29:16.374Z"
+    },
+    {
+      "id": "qs-1790224193658-z2md",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-2",
+      "quiz_type": "matching",
+      "score": 60,
+      "total": 100,
+      "updated_at": "2026-09-24T04:29:53.658Z"
+    },
+    {
+      "id": "qs-1790224793200-kf1f",
+      "user_id": "usr-1790142307092-nv18q",
+      "level_id": "level-2",
+      "quiz_type": "fill_in_blank",
+      "score": 50,
+      "total": 100,
+      "updated_at": "2026-09-24T04:39:53.200Z"
+    }
+  ]
+}

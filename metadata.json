@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ArtVerse XI - Pembelajaran \u0026 LKPD Seni Rupa Kelas XI",
+  "description": "Portal pembelajaran Seni Rupa Kelas XI dengan LKPD bertingkat terstruktur, modul interaktif Unit 1-5, kuis \u0026 mini game, galeri karya siswa, serta forum apresiasi seni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
